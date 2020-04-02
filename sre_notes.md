@@ -44,7 +44,34 @@ There’s nothing particularly special about these concepts, except that a surpr
 
 Because capacity is critical to availability, it naturally follows that the SRE team must be in charge of capacity planning, which means they also must be in charge of provisioning.
 
-# Provisioning
+### Provisioning
 Provisioning combines both change management and capacity planning.
 Adding new capacity often involves spinning up a new instance or location, making significant modification to existing systems (configuration files, load balancers, networking), and validating that the new capacity performs and delivers correct results.
 
+### Availability
+What are our availability goals?
+* 99.99% 
+* 99.999% 
+* 99.9999%
+
+Are they defined in minutes or requests?
+
+Minutes:
+	availability= uptime/((uptime+downtime))
+
+
+Requests:
+	availability= (successful requests)/(total requests)
+	
+### Service Levels
+1. Indicatiors (SLI):
+   * An SLI is a *service level indicator* - a carefully defined quantitiative measure of some aspect of the level of service that is provided.
+     * Most services consider *request latency* - how long it takes to return a response to a request - as a key SLI
+
+2. OBjectives (SLO):
+   * An SLO is a *service level objective* - a target value or range of values for a service level that is measured by an SLI.
+     * Choosing and publishing SLOs to users sets expectations about how a service will perform.
+
+3. Agreements (SLA):
+   * An SLA is a *service level agreement* - an explicit or implicit contract with your users that includes consquences of meeting (or missing) the SLOs they contain.
+     * An easy way to tell the difference between an SLO and an SLA is to ask "what happens if the SLOs aren't met?" - if there is no explicit consequence, then you are almost certainly looking at an SLO.
