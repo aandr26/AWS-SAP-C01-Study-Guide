@@ -1,3 +1,6 @@
+.. _regionsazs:
+
+
 Information about Regions, AZs, and Edge Infrastructure
 =======================================================
 Regions
