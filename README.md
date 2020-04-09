@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-* [Disaster Recovery: RPO and RTO](\docs\1_AWS_Essentials\Disaster_Recovery_RPO_TRO.md)
-* [High Availability, Fault Tolerance and Disaster Recovery](docs\1_AWS_Essentials\High-Availability_Fault-Tolerance_Disaster-Recovery.md)
+* [Disaster Recovery: RPO and RTO](./docs/1_AWS_Essentials/Disaster_Recovery_RPO_TRO.md)
+* [High Availability, Fault Tolerance and Disaster Recovery](./docs/1_AWS_Essentials/High-Availability_Fault-Tolerance_Disaster-Recovery.md)
 
 ## Useful Links
 
