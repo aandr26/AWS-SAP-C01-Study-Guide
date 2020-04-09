@@ -1,7 +1,8 @@
-*******
-AWS CSA 
-*******
+AWS CSA Study Notes
+===================
 
 
-By 'Aaron Andrews'
-#####################
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents
