@@ -2,7 +2,7 @@ AWS CSA Study Notes
 ===================
 
 Specific Topics:
-:ref: `High Availability, Fault Tolerance, and Disaster Recovery Info <haftdr>`
+:ref:`High Availability, Fault Tolerance, and Disaster Recovery Info <haftdr>`
 
 
 .. toctree::
