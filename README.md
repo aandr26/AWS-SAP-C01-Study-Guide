@@ -1,6 +1,12 @@
 # AWS_CSA_Pro
 
+## Table of Contents
+
+* [Disaster Recovery: RPO and RTO](\docs\1_AWS_Essentials\Disaster_Recovery_RPO_TRO.md)
+* [High Availability, Fault Tolerance and Disaster Recovery](docs\1_AWS_Essentials\High-Availability_Fault-Tolerance_Disaster-Recovery.md)
+
 ## Useful Links
+
 * [The Orion Papers Pro](https://interactive.linuxacademy.com/diagrams/OrionPapersPro.html)
 * [Building a VPC from Scratch](https://app.linuxacademy.com/hands-on-labs/934b78e6-5327-4ed3-a369-1b60b382722f?redirect_uri=https:%2F%2Fapp.linuxacademy.com%2Fsearch%3Fquery%3Dvpc%26type%3DHands-On%2520Lab~Live%2520Environment%2520Learning%2520Activity)
 * [Recap: Provisioning an EC2 Instance](https://linuxacademy.com/cp/livelabs/view/id/161/module/119)

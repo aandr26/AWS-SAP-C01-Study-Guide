@@ -1,30 +1,27 @@
-.. _regionsazs:
+# Information about Regions, AZs, and Edge Infrastructure
 
+## Regions
 
-Information about Regions, AZs, and Edge Infrastructure
-=======================================================
-Regions
--------
 * Regions help with fault isolation, but at a more macro scale.
-* Protect against geo political.
+* Protect against geo-political issues.
 
 * Example regions:
-    * us-east-1
-    * us-west-1
+  * us-east-1
+  * us-west-1
 
-Availability Zones
-------------------
+## Availability Zones
+
 * Own storage, compute, and network.
 * Seperate, isolated infrastructure components.
 * Fault isolation domains.
 
 * Example availability zones:
-    * us-east-1a
-    * us-east-1b
-    * us-west-1a
-    * us-west-1b
+  * us-east-1a
+  * us-east-1b
+  * us-west-1a
+  * us-west-1b
 
-Edge Locations
---------------
+## Edge Locations
+
 * Smalled pockets of infrastructure, distributed in major cities.
 * Rack scale contain storage and content distribution capability.
