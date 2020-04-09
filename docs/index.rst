@@ -2,8 +2,8 @@ AWS CSA Study Notes
 ===================
 
 Specific Topics:
-:ref:`High Availability, Fault Tolerance, and Disaster Recovery Info <haftdr>`
-:ref:`Regions, Availability Zones, and Edge Locations <regionsazs>`
+* :ref:`High Availability, Fault Tolerance, and Disaster Recovery Info <haftdr>`
+* :ref:`Regions, Availability Zones, and Edge Locations <regionsazs>`
 
 .. toctree::
    :maxdepth: 2
