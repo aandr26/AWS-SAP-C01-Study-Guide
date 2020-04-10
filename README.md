@@ -1,23 +1,37 @@
 # AWS_CSA_Pro
 
-## Table of Contents
+--------------------------------
 
-### AWS Essentials
+## About
+
+--------------------------------
+
+This guide serves to help the user pass the AWS Certified Solutions Archictect Professional certification exam.
+
+It generally follows the Linux Academy [AWS Certified Solutions Architect - Professional](https://linuxacademy.com/course/aws-certified-solutions-architect-professional-2018/) course.
+
+### Table of Contents
+
+#### AWS Essentials
 
 * [Disaster Recovery: RPO and RTO](./docs/1_AWS_Essentials/Disaster_Recovery_RPO_TRO.md)
 * [High Availability, Fault Tolerance and Disaster Recovery](./docs/1_AWS_Essentials/High-Availability_Fault-Tolerance_Disaster-Recovery.md)
 * [Regions, Availability Zones, and Edge Locations](./docs/1_AWS_Essentials/Regions_AZs_Edge-Infrastructure.md)
 * [Data Persistence](./docs/1_AWS_Essentials/Data_Persistence.md)
 
-### AWS Accounts
+#### AWS Accounts and Access
 
 * [IAM Overview](./docs/2_Accounts/2a_AWS_Identity_Basics/IAM_Overview.md)
 * [Identity and Resource Policies Overview](./docs/2_Accounts/2a_AWS_Identity_Basics/Identity_and_Resource_Policies.md)
 * [IAM Roles and Temporary Security Credentials](./docs/2_Accounts/2a_AWS_Identity_Basics/IAM_Roles_and_Temporary_Credentials.md)
+* [Cross-Account Access: Resource Permissions vs. Cross-Account Roles](./docs/2_Accounts/2a_AWS_Identity_Basics/Cross-Account_Access.md)
+* [AWS Accounts and AWS Organizations](./docs/2_Accounts/2b_Account_Management/Accounts_Organizations.md)
 
-## Useful Links
+### Useful Links
 
-### AWS Produced Content
+Additional links can be found in the content specific links above.
+
+#### AWS Produced Content
 
 * [AWS Certified Solutions Architect – Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
 * [AWS Certified Solutions Architect – Professional (SAP-C01) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS_Certified_Solutions_Architect_Professional-Exam_Guide_1.2.pdf)
@@ -31,8 +45,14 @@
   * [Auto Scaling](https://aws.amazon.com/ec2/faqs/)
   * [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/faqs/)
   * [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/faqs/)
+  * [Lambda](https://aws.amazon.com/lambda/faqs/)
+  * [API Gateway](https://aws.amazon.com/api-gateway/faqs/)
+  * [DynamoDB](https://aws.amazon.com/dynamodb/faqs/)
+  * [CodePipline](https://aws.amazon.com/codepipeline/faqs/)
+  * [CodeCommit](https://aws.amazon.com/codecommit/faqs/)
+  * [CodeBuild](https://aws.amazon.com/codebuild/faqs/)
 
-### Linux Academy
+#### Linux Academy
 
 * [The Orion Papers Pro](https://interactive.linuxacademy.com/diagrams/OrionPapersPro.html)
 * [Building a VPC from Scratch](https://app.linuxacademy.com/hands-on-labs/934b78e6-5327-4ed3-a369-1b60b382722f?redirect_uri=https:%2F%2Fapp.linuxacademy.com%2Fsearch%3Fquery%3Dvpc%26type%3DHands-On%2520Lab~Live%2520Environment%2520Learning%2520Activity)

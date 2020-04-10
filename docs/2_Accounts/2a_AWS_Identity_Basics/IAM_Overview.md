@@ -1,6 +1,8 @@
 # IAM Overview
 
-[AWS IAM Documentation ](https://docs.aws.amazon.com/iam/)
+## Useful Links
+
+* [AWS IAM Documentation](https://docs.aws.amazon.com/iam/)
 
 ## Identity & Access Managment
 
@@ -18,5 +20,6 @@ Lets you manage identities and allocate the permissions required for different r
 
 * **Exam tips**:
   * Familarize yourself with the Credential Report.
-  * Watch for gotcha questions about groups.
+  * Watch for gotcha questions about groups
+    * logging in as a group - you don't.
   * Expect a question on policy variables.
