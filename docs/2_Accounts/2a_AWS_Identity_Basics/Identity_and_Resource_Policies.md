@@ -1,15 +1,33 @@
 # Identity and Resource Policies
 
 * [IAM Policy Elements](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements.html)
-* [IAM Policy Conditions](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_condition.html)
-* [IAM Policy Variables](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_variables.html)
+* [IAM Policy Elements: Conditions](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_condition.html)
+* [IAM Policy Elements: Variables and Tags](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_variables.html)
 
 * **Exam Tips:**
-  * Expect a question on policy variables.
-  * A principal is not required in an identity policy - It is assumed.
-  * It is required in a resource policy.
-    * Easy way to quickly distinguish between a **resource** policy and an **identity** policy is the *__presence of the principal statement__*.
-
+  * Policy General:
+    * Expect a question on policy variables.
+  * Principal:
+    * A principal is not required (or [allowed](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_principal.html)) in an identity policy - It is assumed.
+    * It is required in a resource policy.
+      * Easy way to quickly distinguish between a **resource** policy and an **identity** policy is the *__presence of the principal statement__*.
+    * It is allowed in trust policies for IAM roles.
+    * Principals can be:
+      * AWS account and root
+      * IAM users
+      * Federated users (web identity or SAML)
+      * IAM roles
+      * Assumed-role sessions
+      * AWS services
+      * Anonymous users
+    * Cannot use a wildcard (*) when users are specified as the principal. Principals must be specifically named.
+  * Version:
+    * Always use the version statement: "_2012-10-17_"
+      * Failure to use "_2012-10-17_" means it will default to the older version of the policy language "_2008-10-17_".
+      * "_2008-10-17_" does not support items such as variables.
+  * Required Elements:
+    * Statement
+    * Effect
 
 ## Policy Document Examples
 
@@ -112,5 +130,3 @@
   ]
 }
 ```
-
-### Restrict Access to a Bucket Base on Time
