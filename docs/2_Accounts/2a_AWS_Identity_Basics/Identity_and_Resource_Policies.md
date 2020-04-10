@@ -22,9 +22,9 @@
       * Anonymous users
     * Cannot use a wildcard (*) when users are specified as the principal. Principals must be specifically named.
   * Version:
-    * Always use the version statement: "_2012-10-17_"
-      * Failure to use "_2012-10-17_" means it will default to the older version of the policy language "_2008-10-17_".
-      * "_2008-10-17_" does not support items such as variables.
+    * Always use the version statement: "_**2012-10-17**_"
+      * Failure to use "_**2012-10-17**_" means it will default to the older version of the policy language "_**2008-10-17**_".
+      * "_**2008-10-17**_" does not support items such as variables.
   * Required Elements:
     * Statement
     * Effect
