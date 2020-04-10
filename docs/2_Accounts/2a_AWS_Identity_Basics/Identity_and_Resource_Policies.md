@@ -28,6 +28,8 @@
   * Required Elements:
     * Statement
     * Effect
+    * Action or NotAction
+    * Resource or NotResource
 
 ## Policy Document Examples
 

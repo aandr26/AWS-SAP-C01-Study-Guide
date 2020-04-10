@@ -9,6 +9,23 @@
 
 ## Useful Links
 
+### AWS Produced Content
+
+* [AWS Certified Solutions Architect – Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+* [AWS Certified Solutions Architect – Professional (SAP-C01) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS_Certified_Solutions_Architect_Professional-Exam_Guide_1.2.pdf)
+* [AWS Digital Library](https://www.aws.training/LearningLibrary?&search=&tab=digital_courses)
+  * [Exam Readiness: AWS Certified Solutions Architect – Professional](https://www.aws.training/Details/eLearning?id=34737)
+* White Papers:
+  * [Securing Data at Rest with Encryption](https://d0.awsstatic.com/whitepapers/aws-securing-data-at-rest-with-encryption.pdf)
+  * [Web Appilcation Hosting in the AWS Cloud](https://d0.awsstatic.com/whitepapers/aws-web-hosting-best-practices.pdf?refid=em_)
+  * [Migrating AWS Resources to a New Region](http://d0.awsstatic.com/whitepapers/aws-migrate-resources-to-new-region.pdf?refid=70138000001adyu)
+* FAQs:
+  * [Auto Scaling](https://aws.amazon.com/ec2/faqs/)
+  * [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/faqs/)
+  * [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/faqs/)
+
+### Linux Academy
+
 * [The Orion Papers Pro](https://interactive.linuxacademy.com/diagrams/OrionPapersPro.html)
 * [Building a VPC from Scratch](https://app.linuxacademy.com/hands-on-labs/934b78e6-5327-4ed3-a369-1b60b382722f?redirect_uri=https:%2F%2Fapp.linuxacademy.com%2Fsearch%3Fquery%3Dvpc%26type%3DHands-On%2520Lab~Live%2520Environment%2520Learning%2520Activity)
 * [Recap: Provisioning an EC2 Instance](https://linuxacademy.com/cp/livelabs/view/id/161/module/119)
