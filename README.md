@@ -2,10 +2,18 @@
 
 ## Table of Contents
 
+### AWS Essentials
+
 * [Disaster Recovery: RPO and RTO](./docs/1_AWS_Essentials/Disaster_Recovery_RPO_TRO.md)
 * [High Availability, Fault Tolerance and Disaster Recovery](./docs/1_AWS_Essentials/High-Availability_Fault-Tolerance_Disaster-Recovery.md)
 * [Regions, Availability Zones, and Edge Locations](./docs/1_AWS_Essentials/Regions_AZs_Edge-Infrastructure.md)
 * [Data Persistence](./docs/1_AWS_Essentials/Data_Persistence.md)
+
+### AWS Accounts
+
+* [IAM Overview](./docs/2_Accounts/2a_AWS_Identity_Basics/IAM_Overview.md)
+* [Identity and Resource Policies Overview](./docs/2_Accounts/2a_AWS_Identity_Basics/Identity_and_Resource_Policies.md)
+* [IAM Roles and Temporary Security Credentials](./docs/2_Accounts/2a_AWS_Identity_Basics/IAM_Roles_and_Temporary_Credentials.md)
 
 ## Useful Links
 
