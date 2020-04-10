@@ -4,7 +4,8 @@
 
 The time between when a failure occured and the last successful (**recoverable**) copy of necessary business data.
 Goal is to *minimize* this length of time.
-    * The business will help determine this time.
+
+* The business will help determine this time.
 
 ## Recovery Time Objective (RTO)
 
