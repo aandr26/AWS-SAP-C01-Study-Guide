@@ -19,3 +19,4 @@ Lets you manage identities and allocate the permissions required for different r
 * **Exam tips**:
   * Familarize yourself with the Credential Report.
   * Watch for gotcha questions about groups.
+  * Expect a question on policy variables.
