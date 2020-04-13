@@ -43,11 +43,13 @@ Additional links can be found in the content specific links above.
 * [AWS Certified Solutions Architect – Professional (SAP-C01) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS_Certified_Solutions_Architect_Professional-Exam_Guide_1.2.pdf)
 * [AWS Digital Library](https://www.aws.training/LearningLibrary?&search=&tab=digital_courses)
   * [Exam Readiness: AWS Certified Solutions Architect – Professional](https://www.aws.training/Details/eLearning?id=34737)
-* White Papers:
+
+* **White Papers:**
   * [Securing Data at Rest with Encryption](https://d0.awsstatic.com/whitepapers/aws-securing-data-at-rest-with-encryption.pdf)
   * [Web Appilcation Hosting in the AWS Cloud](https://d0.awsstatic.com/whitepapers/aws-web-hosting-best-practices.pdf?refid=em_)
   * [Migrating AWS Resources to a New Region](http://d0.awsstatic.com/whitepapers/aws-migrate-resources-to-new-region.pdf?refid=70138000001adyu)
-* FAQs:
+
+* **FAQs:**
   * [Auto Scaling](https://aws.amazon.com/ec2/faqs/)
   * [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/faqs/)
   * [Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/faqs/)
@@ -68,6 +70,7 @@ Additional links can be found in the content specific links above.
 #### Linux Academy
 
 * [The Orion Papers Pro](https://interactive.linuxacademy.com/diagrams/OrionPapersPro.html)
+
 * **Labs that Linux Academy Recommends**
   * [Recap: Provisioning an EC2 Instance](https://linuxacademy.com/cp/livelabs/view/id/161/module/119)
   * [EC2 Backup Solutions with AMIs and Snapshots](https://linuxacademy.com/cp/livelabs/view/id/188/module/119)
