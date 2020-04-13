@@ -26,6 +26,7 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
 * [IAM Roles and Temporary Security Credentials](./docs/2_Accounts/2a_AWS_Identity_Basics/IAM_Roles_and_Temporary_Credentials.md)
 * [Cross-Account Access: Resource Permissions vs. Cross-Account Roles](./docs/2_Accounts/2a_AWS_Identity_Basics/Cross-Account_Access.md)
 * [AWS Accounts and AWS Organizations](./docs/2_Accounts/2b_Account_Management/Accounts_Organizations.md)
+* [AWS Config](./docs/2_Accounts/2b_Account_Management/Config.md)
 
 ### Useful Links
 
