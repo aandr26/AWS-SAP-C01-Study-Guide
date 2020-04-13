@@ -19,7 +19,7 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
 * [Regions, Availability Zones, and Edge Locations](./docs/1_AWS_Essentials/Regions_AZs_Edge-Infrastructure.md)
 * [Data Persistence](./docs/1_AWS_Essentials/Data_Persistence.md)
 
-#### AWS Accounts and Access
+#### AWS Accounts: Management and Access
 
 * [IAM Overview](./docs/2_Accounts/2a_AWS_Identity_Basics/IAM_Overview.md)
 * [Identity and Resource Policies Overview](./docs/2_Accounts/2a_AWS_Identity_Basics/Identity_and_Resource_Policies.md)
@@ -27,6 +27,7 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
 * [Cross-Account Access: Resource Permissions vs. Cross-Account Roles](./docs/2_Accounts/2a_AWS_Identity_Basics/Cross-Account_Access.md)
 * [AWS Accounts and AWS Organizations](./docs/2_Accounts/2b_Account_Management/Accounts_Organizations.md)
 * [AWS Config](./docs/2_Accounts/2b_Account_Management/Config.md)
+* [AWS Service Catalog](./docs/2_Accounts/2b_Account_Management/Service_Catalog.md)
 
 ### Useful Links
 
