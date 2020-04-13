@@ -31,6 +31,10 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
 
 Additional links can be found in the content specific links above.
 
+### Practice Exams
+
+* [Whizlabs](https://www.whizlabs.com/aws-solutions-architect-professional/practice-tests/)
+
 #### AWS Produced Content
 
 * [AWS Certified Solutions Architect – Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
@@ -44,13 +48,20 @@ Additional links can be found in the content specific links above.
 * FAQs:
   * [Auto Scaling](https://aws.amazon.com/ec2/faqs/)
   * [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/faqs/)
-  * [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/faqs/)
+  * [Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/faqs/)
   * [Lambda](https://aws.amazon.com/lambda/faqs/)
   * [API Gateway](https://aws.amazon.com/api-gateway/faqs/)
   * [DynamoDB](https://aws.amazon.com/dynamodb/faqs/)
   * [CodePipline](https://aws.amazon.com/codepipeline/faqs/)
   * [CodeCommit](https://aws.amazon.com/codecommit/faqs/)
   * [CodeBuild](https://aws.amazon.com/codebuild/faqs/)
+  * [Database Migration Service](https://aws.amazon.com/dms/faqs/)
+  * [Oraganiztions](https://aws.amazon.com/organizations/faqs/)
+  * [Server Migration Service](https://aws.amazon.com/server-migration-service/faqs/)
+  * [Serverless Application Model](https://aws.amazon.com/serverless/sam/faqs/)
+  * [EC2 Systems Manager](https://aws.amazon.com/systems-manager/faq/)
+  * [Service Catalog](https://aws.amazon.com/servicecatalog/faqs/)
+  * [Direct Connect](https://aws.amazon.com/directconnect/faqs/)
 
 #### Linux Academy
 
@@ -72,3 +83,11 @@ Additional links can be found in the content specific links above.
 * [CloudTrail Sandbox](https://linuxacademy.com/cp/livelabs/view/id/179/module/119)
 * [CloudFormation Lab](https://linuxacademy.com/cp/livelabs/view/id/180/module/119)
 * [Elastic Beanstalk Lab](https://linuxacademy.com/cp/livelabs/view/id/181/module/119)
+
+### Pluralsight
+
+* [AWS Certified Solutions Architect - Professional Path](https://app.pluralsight.com/paths/certificate/aws-certified-solutions-architect-professional)
+
+### Tutorial Dojo
+
+* [AWS Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets/)
