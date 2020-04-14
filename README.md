@@ -36,6 +36,11 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
 * [Identity Federation](./docs/2_Accounts/2d_Advanced_Identity_in_AWS/Identity_Federation.md)
 * [Policy Evaluation Logic](./docs/2_Accounts/2d_Advanced_Identity_in_AWS/Policy_Evaluation_Logic.md)
 
+#### Networking
+
+* [VPC Basics](./docs/3_Networking/3a_VPC_Essentials/VPC_Basics.md)
+* [Resource Access Manager](./docs/3_Networking/3a_VPC_Essentials/Resource_Access_Manager.md)
+
 ### Useful Links
 
 Additional links can be found in the content specific links above.
