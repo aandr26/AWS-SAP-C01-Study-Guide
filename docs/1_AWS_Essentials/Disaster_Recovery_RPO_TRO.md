@@ -11,9 +11,8 @@ Goal is to *minimize* this length of time.
 
 The time between occurance of a disaster and business required systems are operational again.
 
-**Improve this by decreasing restore time:**
-
-* Hot Spares
-* Processes:
-  * Game days
-  * Run books
+* **Improve this by decreasing restore time:**
+  * Hot Spares
+  * Processes:
+    * Game days
+    * Run books

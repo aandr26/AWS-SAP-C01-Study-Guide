@@ -5,7 +5,7 @@
 * Regions help with fault isolation, but at a more macro scale.
 * Protect against geo-political issues.
 
-* Example regions:
+* **Example regions:**
   * us-east-1
   * us-west-1
 
@@ -15,7 +15,7 @@
 * Seperate, isolated infrastructure components.
 * Fault isolation domains.
 
-* Example availability zones:
+* **Example availability zones:**
   * us-east-1a
   * us-east-1b
   * us-west-1a

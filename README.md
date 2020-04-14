@@ -28,7 +28,13 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
 * [AWS Accounts and AWS Organizations](./docs/2_Accounts/2b_Account_Management/Accounts_Organizations.md)
 * [AWS Config](./docs/2_Accounts/2b_Account_Management/Config.md)
 * [AWS Service Catalog](./docs/2_Accounts/2b_Account_Management/Service_Catalog.md)
-* [Billing](./docs/2_Accounts/2b_Account_Management/Billing.md)
+* [Billing](./docs/2_Accounts/2c_Billing_Models/Billing.md)
+
+#### Advanced Identity in AWS
+
+* [IAM Permission Boundaries](./docs/2_Accounts/2d_Advanced_Identity_in_AWS/IAM_Permission_Boundaries.md)
+* [Identity Federation](./docs/2_Accounts/2d_Advanced_Identity_in_AWS/Identity_Federation.md)
+* [Policy Evaluation Logic](./docs/2_Accounts/2d_Advanced_Identity_in_AWS/Policy_Evaluation_Logic.md)
 
 ### Useful Links
 
@@ -106,3 +112,7 @@ Additional links can be found in the content specific links above.
 ### Tutorial Dojo
 
 * [AWS Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets/)
+
+### Other
+
+* [AWS In Plain English](https://expeditedsecurity.com/aws-in-plain-english/)

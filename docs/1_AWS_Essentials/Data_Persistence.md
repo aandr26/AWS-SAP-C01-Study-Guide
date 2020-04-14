@@ -4,11 +4,11 @@
 
 Data this is local to a resource (usually) and lost when the resource is powered off.
 
-* Examples:
+* **Examples:**
   * Instance Store Volume
   * Amazon ElastiCache
 
-* Notes:
+* **Notes:**
   * Very high throughput.
   * Data is *lost* when the resource is powered down.
     * Data does survive a reboot, but if an instance is terminated or the disk itself fails, the data is lost.
@@ -17,11 +17,11 @@ Data this is local to a resource (usually) and lost when the resource is powered
 
 Data that is durable and able to survive power events such as start, stop, and restart.
 
-* Examples:
+* **Examples:**
   * Amazon EBS (Elastic Block Store)
   * Amazon EFS (Elastic File Store)
 
-* Notes:
+* **Notes:**
   * Comes at an extra cost
   * Not default.
   * Good for things such as databases.
@@ -30,9 +30,9 @@ Data that is durable and able to survive power events such as start, stop, and r
 
 Datastores that exist with the intention that the data injected is temporary.
 
-* Examples:
+* **Examples:**
   * SQS
 
-* Notes:
+* **Notes:**
   * Not used for permanent storage.
   * Used as intermediaries between services.

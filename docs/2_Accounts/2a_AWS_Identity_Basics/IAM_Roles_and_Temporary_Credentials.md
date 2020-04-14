@@ -16,8 +16,10 @@
   * Policies:
     * Trust policy:
       * Used when assumed.
+      * Determine who/what can assume the role.
     * Permissions policy:
       * Checked against what the role provides.
+      * Determines what actions are allowed once the role is assumed.
 
 ```BASH
 # To view the temporary security credentials - swap out 'role-name' with the actual name of the attached role.

@@ -1,12 +1,11 @@
 # AWS Accounts and AWS Organizations
 
-## Useful Links
-
-* [Using Consolidated Billing](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/useconsolidatedbilling-discounts.html)
-* [Organizations Docs](https://docs.aws.amazon.com/organizations/?id=docs_gateway)
-* [AWS Service Limits](https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html)
-* [Service Endpoints and Quotas](https://docs.aws.amazon.com/general/latest/gr/aws-general.pdf#aws-service-information)
-* [IAM Limits](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_iam-limits.html)
+* **Useful Links:**
+  * [Using Consolidated Billing](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/useconsolidatedbilling-discounts.html)
+  * [Organizations Docs](https://docs.aws.amazon.com/organizations/?id=docs_gateway)
+  * [AWS Service Limits](https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html)
+  * [Service Endpoints and Quotas](https://docs.aws.amazon.com/general/latest/gr/aws-general.pdf#aws-service-information)
+  * [IAM Limits](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_iam-limits.html)
 
 * **Notes:**
   * Used to be known as the '_payer_' account, now known as the '_master_' account.
@@ -15,13 +14,13 @@
   * Consolidated billing:
     * May gain you volume discounts, thus reducing your bill.
   * OUs = Organizational Unit.
-  * Treat mater account as a billing and user store.
+  * Treat master account as a billing and user store.
 
 ## Service Control Policies
 
 * **Notes:**
 
-* SCP inherit downwards, but they do not affect the master account.
+* SCP inherit downwards, but they _do not_ affect the master account.
 
 * **Exam Tips:**
   * They do not provide actual permissions, they only allow or deny actions.
@@ -49,6 +48,6 @@
   * Programmatic case management.
     * Business and Enterprise
   * Proactive programs.
-    * Business (extra cost) and Enterprise
+    * Business (extra cost) and Enterprise.
   * Technical account management.
     * Enterprise.
