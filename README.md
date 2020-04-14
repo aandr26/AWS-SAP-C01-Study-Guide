@@ -53,6 +53,7 @@ Additional links can be found in the content specific links above.
   * [Web Appilcation Hosting in the AWS Cloud](https://d0.awsstatic.com/whitepapers/aws-web-hosting-best-practices.pdf?refid=em_)
   * [Migrating AWS Resources to a New Region](http://d0.awsstatic.com/whitepapers/aws-migrate-resources-to-new-region.pdf?refid=70138000001adyu)
   * [AWS Security Best Practices](https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf?refid=em_)
+    * [Audio Version](https://soundcloud.com/serverless-guru-871496186/sets/aws-whitepapers)
   * [Implementing Microservices on AWS](https://d1.awsstatic.com/whitepapers/microservices-on-aws.pdf)
   * [Amazon Web Services: Overview of Security Processes](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Whitepaper.pdf)
   * [Practicing Continuous Integration and Continuous Delivery on AWS](https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf)
