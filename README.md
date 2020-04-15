@@ -48,6 +48,7 @@ Additional links can be found in the content specific links above.
 ### Practice Exams
 
 * [Whizlabs](https://www.whizlabs.com/aws-solutions-architect-professional/practice-tests/)
+* [Jon Bonso](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-professional-practice-exams/)
 
 #### AWS Produced Content
 
