@@ -40,6 +40,9 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
 
 * [VPC Basics](./docs/3_Networking/3a_VPC_Essentials/VPC_Basics.md)
 * [Resource Access Manager](./docs/3_Networking/3a_VPC_Essentials/Resource_Access_Manager.md)
+* [VPC Routing](./docs/3_Networking/3a_VPC_Essentials/VPC_Routing.md)
+* [Network Access Control Lists](./docs/3_Networking/3a_VPC_Essentials/NACLs.md)
+* [Security Groups](./docs/3_Networking/3a_VPC_Essentials/Security_Groups.md)
 
 ### Useful Links
 
@@ -71,7 +74,7 @@ Additional links can be found in the content specific links above.
   * [Amazon Web Services: Overview of Security Processes](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Whitepaper.pdf)
   * [Practicing Continuous Integration and Continuous Delivery on AWS](https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf)
   * [AWS Well-Architected Framework](https://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
-  * [Building a Scabale and Secure Multi-VPC AWS Network Infrastructure](https://d1.awsstatic.com/whitepapers/building-a-scalable-and-secure-multi-vpc-aws-network-infrastructure.pdf?did=wp_card&trk=wp_card)
+  * [Building a Scalable and Secure Multi-VPC AWS Network Infrastructure](https://d1.awsstatic.com/whitepapers/building-a-scalable-and-secure-multi-vpc-aws-network-infrastructure.pdf?did=wp_card&trk=wp_card)
 * **FAQs:**
   * [Auto Scaling](https://aws.amazon.com/ec2/faqs/)
   * [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/faqs/)
