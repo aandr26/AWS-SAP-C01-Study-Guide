@@ -43,6 +43,7 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
 * [VPC Routing](./docs/3_Networking/3a_VPC_Essentials/VPC_Routing.md)
 * [Network Access Control Lists](./docs/3_Networking/3a_VPC_Essentials/NACLs.md)
 * [Security Groups](./docs/3_Networking/3a_VPC_Essentials/Security_Groups.md)
+* [Private vs Public Subnets, Internet Gateways, IP Addressing](./docs/3_Networking/3a_VPC_Essentials/Pub_vs_Priv_Subnets_IGW_IP_Addressing.md)
 
 ### Useful Links
 
