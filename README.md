@@ -44,6 +44,13 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
 * [Network Access Control Lists](./docs/3_Networking/3a_VPC_Essentials/NACLs.md)
 * [Security Groups](./docs/3_Networking/3a_VPC_Essentials/Security_Groups.md)
 * [Private vs Public Subnets, Internet Gateways, IP Addressing](./docs/3_Networking/3a_VPC_Essentials/Pub_vs_Priv_Subnets_IGW_IP_Addressing.md)
+* [Egress-Only Gateway](./docs/3_Networking/3a_VPC_Essentials/Egress-Only_Gateways.md)
+* [DNS](./docs/3_Networking/3a_VPC_Essentials/DNS_in_VPC.md)
+
+#### Advanced VPC Networking
+
+* [VPC Endpoints](./docs/3_Networking/3b_Advanced_VPC_Networking/VPC_Endpoints.md)
+* [VPC Peering](./docs/3_Networking/3b_Advanced_VPC_Networking/VPC_Peering.md)
 
 ### Useful Links
 
