@@ -51,6 +51,8 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
 
 * [VPC Endpoints](./docs/3_Networking/3b_Advanced_VPC_Networking/VPC_Endpoints.md)
 * [VPC Peering](./docs/3_Networking/3b_Advanced_VPC_Networking/VPC_Peering.md)
+* [VPNs](./docs/3_Networking/3b_Advanced_VPC_Networking/VPNS.md)
+* [Direct Connect](./docs/3_Networking/3b_Advanced_VPC_Networking/Direct_Connect.md)
 
 ### Useful Links
 
@@ -100,6 +102,7 @@ Additional links can be found in the content specific links above.
   * [EC2 Systems Manager](https://aws.amazon.com/systems-manager/faq/)
   * [Service Catalog](https://aws.amazon.com/servicecatalog/faqs/)
   * [Direct Connect](https://aws.amazon.com/directconnect/faqs/)
+  * [Transit Gateway](https://aws.amazon.com/transit-gateway/faqs/)
 
 #### Linux Academy
 

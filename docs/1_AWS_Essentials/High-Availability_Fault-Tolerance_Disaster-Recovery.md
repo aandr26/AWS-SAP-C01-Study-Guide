@@ -11,7 +11,7 @@
 * Have multiple reduancy
 * Allow system to operate even if only one of the resources is available.
 * System assumes failure and can run through failure.
-* More expanse - parallel resources.
+* More expense - parallel resources.
 
 ## Disaster Recovery
 
