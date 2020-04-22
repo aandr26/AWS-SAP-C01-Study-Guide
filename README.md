@@ -59,6 +59,20 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
 
 --------------------------------
 
+#### Security
+
+* **Account and Service Security:**
+  * [Key Management Service (KMS)](./docs/4_Security/4a_Account_Service_Security/Key_Management_Service_KMS.md)
+  * [CloudHSM](./docs/4_Security/4a_Account_Service_Security/CloudHSM.md)
+  * [Certificate Manager (ACM)](./docs/4_Security/4a_Account_Service_Security/Certificate_Manager_ACM.md)
+  * [Directory Service](./docs/4_Security/4a_Account_Service_Security/Directory_Service.md)
+
+* **Network Security:**
+  * [WAF and Shield](./docs/4_Security/4b_Network_Security/WAF_Shield.md)
+  * [GuardDuty](./docs/4_Security/4b_Network_Security/GuardDuty.md)
+  
+--------------------------------
+
 ### Useful Links
 
 Additional links can be found in the content specific links above.
