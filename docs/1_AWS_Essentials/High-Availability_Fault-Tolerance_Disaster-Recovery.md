@@ -1,5 +1,7 @@
 # Information about High availability, Fault Tolerance, and Disaster Recovery
 
+* [Return to table of contents](../../README.md)
+
 ## High availability
 
 * Recover from a failure.

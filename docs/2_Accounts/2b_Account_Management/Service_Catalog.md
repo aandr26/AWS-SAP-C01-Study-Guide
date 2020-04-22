@@ -1,5 +1,10 @@
 # AWS Service Catalog
 
+* [Return to table of contents](../../../README.md)
+
+* **Useful Links:**
+  * [Service Catalog](https://aws.amazon.com/servicecatalog/faqs/)
+
 * **Exam Tips:**
   * There's a requirement for endusers to deploy products that they don't have permissions to do otherwise, in a self-service way.
 

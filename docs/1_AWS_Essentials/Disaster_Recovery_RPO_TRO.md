@@ -1,5 +1,7 @@
 # Disaster Recovery: RPO and RTO
 
+* [Return to table of contents](../../README.md)
+
 ## Recovery Point Objective (RPO)
 
 The time between when a failure occured and the last successful (**recoverable**) copy of necessary business data.

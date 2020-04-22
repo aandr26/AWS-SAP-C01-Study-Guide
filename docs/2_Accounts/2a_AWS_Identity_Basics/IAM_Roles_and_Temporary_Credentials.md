@@ -1,4 +1,6 @@
-# IAM Roles and Temporary Credentials
+# IAM Roles and Temporary Security Credentials
+
+* [Return to table of contents](../../../README.md)
 
 * **Exam Tips:**
   * Watch for gotcha questions about roles:

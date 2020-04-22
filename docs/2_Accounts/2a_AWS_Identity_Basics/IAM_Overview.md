@@ -1,5 +1,7 @@
 # IAM Overview
 
+* [Return to table of contents](../../../README.md)
+
 * **Useful Links:**
   * [AWS IAM Documentation](https://docs.aws.amazon.com/iam/)
 

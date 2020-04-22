@@ -1,6 +1,8 @@
 # DNS in a VPC
 
-* Useful Links:
+* [Return to table of contents](../../../README.md)
+
+* **Useful Links:**
   * [Resolving DNS queries between VPCs and your network](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resolver.html)
 
 * **Notes:**

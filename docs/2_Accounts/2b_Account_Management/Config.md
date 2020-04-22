@@ -1,5 +1,7 @@
 # AWS Config
 
+* [Return to table of contents](../../../README.md)
+
 * **Notes:**
   * Two main functions:
     * Able to monitor the configuration of resources over time within an AWS accounts.

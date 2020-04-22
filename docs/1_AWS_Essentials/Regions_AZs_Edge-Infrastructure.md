@@ -1,4 +1,6 @@
-# Information about Regions, AZs, and Edge Infrastructure
+# Regions, AZs, and Edge Infrastructure
+
+* [Return to table of contents](../../README.md)
 
 ## Regions
 

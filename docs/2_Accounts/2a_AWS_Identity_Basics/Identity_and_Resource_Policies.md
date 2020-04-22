@@ -1,4 +1,6 @@
-# Identity and Resource Policies
+# Identity and Resource Policies Overview
+
+* [Return to table of contents](../../../README.md)
 
 * **Useful Links:**
   * [IAM Policy Elements](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements.html)

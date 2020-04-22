@@ -1,5 +1,7 @@
 # Resource Billing Modes: On-Demand, Reserved, and Spot
 
+* [Return to table of contents](../../../README.md)
+
 * **Useful Links:**
   * [AWS Openguide Billing and Cost Management](https://github.com/open-guides/og-aws#billing-and-cost-management)
 

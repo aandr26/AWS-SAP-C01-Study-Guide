@@ -1,5 +1,7 @@
 # AWS Direct Connect Architecture
 
+* [Return to table of contents](../../../README.md)
+
 * **Useful Links:**
   * [Direct Connect Getting Started](https://docs.aws.amazon.com/directconnect/latest/UserGuide/getting_started.html)
   * [Multiple Data Center HA Network Connectivity](https://aws.amazon.com/answers/networking/aws-multiple-data-center-ha-network-connectivity)

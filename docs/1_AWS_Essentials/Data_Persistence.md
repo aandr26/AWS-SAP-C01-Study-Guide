@@ -1,5 +1,7 @@
 # Data Persistence
 
+* [Return to table of contents](../../README.md)
+
 ## Emphemeral
 
 Data this is local to a resource (usually) and lost when the resource is powered off.
@@ -22,7 +24,7 @@ Data that is durable and able to survive power events such as start, stop, and r
   * Amazon EFS (Elastic File Store)
 
 * **Notes:**
-  * Comes at an extra cost
+  * Comes at an extra cost.
   * Not default.
   * Good for things such as databases.
 
