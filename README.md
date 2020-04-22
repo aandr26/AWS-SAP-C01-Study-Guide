@@ -10,6 +10,8 @@ This guide serves to help the user pass the AWS Certified Solutions Archictect P
 
 It generally follows the Linux Academy [AWS Certified Solutions Architect - Professional](https://linuxacademy.com/course/aws-certified-solutions-architect-professional-2018/) course.
 
+--------------------------------
+
 ### Table of Contents
 
 #### AWS Essentials
