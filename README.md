@@ -113,7 +113,7 @@ Additional links can be found in the content specific links above.
     * [CodeCommit](https://aws.amazon.com/codecommit/faqs/)
     * [CodeBuild](https://aws.amazon.com/codebuild/faqs/)
     * [Database Migration Service](https://aws.amazon.com/dms/faqs/)
-    * [Oraganiztions](https://aws.amazon.com/organizations/faqs/)
+    * [Oraganizations](https://aws.amazon.com/organizations/faqs/)
     * [Server Migration Service](https://aws.amazon.com/server-migration-service/faqs/)
     * [Serverless Application Model](https://aws.amazon.com/serverless/sam/faqs/)
     * [EC2 Systems Manager](https://aws.amazon.com/systems-manager/faq/)
