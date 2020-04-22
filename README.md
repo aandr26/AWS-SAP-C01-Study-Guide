@@ -1,4 +1,4 @@
-# AWS_CSA_Pro
+# AWS Certified Solutions Architect - Professional Exam Guide
 
 --------------------------------
 
