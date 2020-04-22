@@ -1,10 +1,6 @@
 # AWS Certified Solutions Architect - Professional Exam Guide
 
---------------------------------
-
 ## About
-
---------------------------------
 
 This guide serves to help the user pass the AWS Certified Solutions Archictect Professional certification exam.
 
