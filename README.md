@@ -121,6 +121,9 @@ Additional links can be found in the content specific links above.
     * [Direct Connect](https://aws.amazon.com/directconnect/faqs/)
     * [Transit Gateway](https://aws.amazon.com/transit-gateway/faqs/)
 
+* **Udemy:**
+  * [Stephane Maarek's Course](https://www.udemy.com/course/aws-solutions-architect-professional/)
+
 * **Linux Academy:**
   * [The Orion Papers Pro](https://interactive.linuxacademy.com/diagrams/OrionPapersPro.html)
 
@@ -150,3 +153,4 @@ Additional links can be found in the content specific links above.
 
 * **Other:**
   * [AWS In Plain English](https://expeditedsecurity.com/aws-in-plain-english/)
+  * [AWS Certification Reddit](https://www.reddit.com/r/AWSCertifications/)
