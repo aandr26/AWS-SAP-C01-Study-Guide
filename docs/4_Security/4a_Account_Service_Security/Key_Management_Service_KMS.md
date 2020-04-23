@@ -9,6 +9,8 @@
   * [Protecting Encrypted Data Integrity](https://aws.amazon.com/blogs/security/how-to-protect-the-integrity-of-your-encrypted-data-by-using-aws-key-management-service-and-encryptioncontext/)
   * [Grants](https://docs.aws.amazon.com/kms/latest/developerguide/grants.html)
   * [Compliance](https://aws.amazon.com/kms/details/#compliance)
+  * **Not Required Knowledge:**
+    * [AWS re:invent 2017: Best Practices for Implementing AWS Key Management Service (SID330)](https://www.youtube.com/watch?v=X1eZjXQ55ec)
 
 * **Notes:**
   * Generates CMK (Customer Master Keys)
@@ -16,4 +18,7 @@
     * Logically the CMK doesn't leave the service, KMS, or the region.
 
 * **Exam Tips:**
-  * Placeholder
+  * Role seperation:
+    * Don't have to give S3 users access to decrypt.
+    * FIPS 140-2 compliant service? Use KMS as it supports up to level 2.
+    * Can only be managed by AWS APIs.

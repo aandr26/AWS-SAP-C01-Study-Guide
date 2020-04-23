@@ -112,7 +112,7 @@ Additional links can be found in the content specific links above.
     * [CodePipline](https://aws.amazon.com/codepipeline/faqs/)
     * [CodeCommit](https://aws.amazon.com/codecommit/faqs/)
     * [CodeBuild](https://aws.amazon.com/codebuild/faqs/)
-    * [Database Migration Service](https://aws.amazon.com/dms/faqs/)
+    * [Database Migration Service (DMS)](https://aws.amazon.com/dms/faqs/)
     * [Oraganizations](https://aws.amazon.com/organizations/faqs/)
     * [Server Migration Service](https://aws.amazon.com/server-migration-service/faqs/)
     * [Serverless Application Model](https://aws.amazon.com/serverless/sam/faqs/)
@@ -120,6 +120,7 @@ Additional links can be found in the content specific links above.
     * [Service Catalog](https://aws.amazon.com/servicecatalog/faqs/)
     * [Direct Connect](https://aws.amazon.com/directconnect/faqs/)
     * [Transit Gateway](https://aws.amazon.com/transit-gateway/faqs/)
+    * [Key Management Service (KMS)](https://aws.amazon.com/kms/faqs/)
 
 * **Udemy:**
   * [Stephane Maarek's Course](https://www.udemy.com/course/aws-solutions-architect-professional/)
