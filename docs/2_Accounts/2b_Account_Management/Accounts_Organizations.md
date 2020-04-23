@@ -8,6 +8,7 @@
   * [AWS Service Limits](https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html)
   * [Service Endpoints and Quotas](https://docs.aws.amazon.com/general/latest/gr/aws-general.pdf#aws-service-information)
   * [IAM Limits](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_iam-limits.html)
+  * [AWS re:Invent 2019: Architecting security & governance across your landing zone (SEC325)](https://youtu.be/zVJnenaD3U8)
 
 * **Notes:**
   * Used to be known as the '_payer_' account, now known as the '_master_' account.
