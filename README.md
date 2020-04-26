@@ -155,3 +155,53 @@ Additional links can be found in the content specific links above.
 * **Other:**
   * [AWS In Plain English](https://expeditedsecurity.com/aws-in-plain-english/)
   * [AWS Certification Reddit](https://www.reddit.com/r/AWSCertifications/)
+
+--------------------------------
+
+## Planned Approach
+
+* [ ] **Watch Linux Academy Course Through**
+* [ ] **Watch AWS Digital Library:**
+  * [ ] Exam Readiness: AWS Certified Solutions Architect – Professional
+  * [ ] AWS Well-Architected
+  * [ ] Migrating and Tiering Storage to AWS
+  * [ ] Deep Dive into Amazon Elastic Block Store (EBS)
+  * [ ] Deep Dive into Amazon Elastic File System (EFS)
+* [ ] **Read FAQs:**
+  * [ ] Auto Scaling
+  * [ ] Elastic Load Balancing
+  * [ ] Elastic Beanstalk
+  * [ ] Lambda
+  * [ ] API Gateway
+  * [ ] DynamoDB
+  * [ ] CodePipline
+  * [ ] CodeCommit
+  * [ ] CodeBuild
+  * [ ] Database Migration Service (DMS)
+  * [ ] Oraganizations
+  * [ ] Server Migration Service
+  * [ ] Serverless Application Model
+  * [ ] EC2 Systems Manager
+  * [ ] Service Catalog
+  * [ ] Direct Connect
+  * [ ] Transit Gateway
+  * [ ] Key Management Service (KMS)
+* [ ] **Take Practice Exams:**
+  * [ ] 1 Bonso
+  * [ ] 1 Whizlab
+* [ ] **Read Whitepapers:**
+  * [ ] Securing Data at Rest with Encryption
+  * [ ] Web Appilcation Hosting in the AWS Cloud
+  * [ ] Migrating AWS Resources to a New Region
+  * [ ] AWS Security Best Practices
+  * [ ] Implementing Microservices on AWS
+  * [ ] Amazon Web Services: Overview of Security Processes
+  * [ ] Practicing Continuous Integration and Continuous Delivery on AWS
+  * [ ] AWS Well-Architected Framework
+  * [ ] Building a Scalable and Secure Multi-VPC AWS Network Infrastructure
+* [ ] **Watch Stephane Maarek's Udemy Course**
+* [ ] **Take Practice Exams:**
+  * [ ] Bonso
+  * [ ] Whizlab
+  * [ ] PSI
+* [ ] **Review**
