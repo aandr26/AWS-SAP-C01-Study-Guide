@@ -7,5 +7,5 @@
 
 * **Exam Tips:**
   * Need to be aware of the architect of ACM, not implementation.
-  * Natively integrates 
+  * Natively integrates
   Cannot use on EC2 instances.
