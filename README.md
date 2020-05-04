@@ -73,6 +73,36 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
   
 --------------------------------
 
+#### Compute
+
+* **EC2:**
+  * [EC2 Concepts](./docs/5_Compute/5a_EC2/EC2_Concepts.md)
+  * [Creating and Using AMIs](./docs/5_Compute/5a_EC2/Creating_Using_AMIs.md)
+  * [Virtualization and EC2 Instance Type: Deep Dive](./docs/5_Compute/5a_EC2/Virtualization_EC2_Deep_Dive.md)
+  * [EC2 Storage and Snapshots](./docs/5_Compute/5a_EC2/EC2_Storage_and_Snapshots.md)
+  * [EC2 Instance Profiles and Roles](./docs/5_Compute/5a_EC2/EC2_Instance_Roles.md)
+  * [HPC and Placement Groups](./docs/5_Compute/5a_EC2/HPC_Placement_Groups.md)
+* **Containers:**
+  * [ECS Architecture](./docs/5_Compute/5b_Containers/ECS_Archictecture.md)
+  * [ECS Security](./docs/5_Compute/5b_Containers/ECS_Security.md)
+* **Serverless:**
+  * [Serverless and Event-Driven Architectures](./docs/5_Compute/5c_Serverless/Serverless_Event-Driven_Archictectures.md)
+  * [Lambda Layers](./docs/5_Compute/5c_Serverless/Lambda_Layers.md)
+  * [API Gateway](./docs/5_Compute/5c_Serverless/API_Gateway.md)
+
+--------------------------------
+
+#### Scaling and Resilience
+
+* **Scaling Architecture:**
+  * [AWS Service Resilience](./docs/6_Scaling_and_Resilience/6a_Scaling_Architectures/AWS_Service_Resilience.md)
+  * [Stateless Architectures](./docs/6_Scaling_and_Resilience/6a_Scaling_Architectures/Stateless_Architectures.md)
+  * [Deciding between Spot and Reserved Instances](./docs/6_Scaling_and_Resilience/6a_Scaling_Architectures/Deciding_between_Spot_Reserved_Instances.md)
+  * [Implementing Auto Scaling Groups (ASGs)](./docs/6_Scaling_and_Resilience/6a_Scaling_Architectures/Implementing_ASG.md)
+  * [Elastic Load Balancers](./docs/6_Scaling_and_Resilience/6a_Scaling_Architectures/ELB.md)
+
+--------------------------------
+
 ### Useful Links
 
 Additional links can be found in the content specific links above.
