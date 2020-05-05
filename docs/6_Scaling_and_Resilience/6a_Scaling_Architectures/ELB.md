@@ -12,6 +12,7 @@
   * **Exam Tips:**
     * Need to know what scenario to use specific types of ELBs.
     * Provides abstraction.
+    * ELBs allow decoupling of the tiers.
     * **Classic Load Balancer:**
       * Not recommended
       * Not layer 7 device.
@@ -31,3 +32,8 @@
       * HTTP/2 is supported.
       * Can have lambda functions as targets.
       * Healthchecks defined at target group level.
+    * **Network Load Balancers:**
+      * Operate at layer 4 of the OSI model.
+      * TLS termination supported.
+      * UDP and TCP both supported.
+      * End-to-end encryption? = NLB
