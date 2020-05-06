@@ -100,6 +100,9 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
   * [Deciding between Spot and Reserved Instances](./docs/6_Scaling_and_Resilience/6a_Scaling_Architectures/Deciding_between_Spot_Reserved_Instances.md)
   * [Implementing Auto Scaling Groups (ASGs)](./docs/6_Scaling_and_Resilience/6a_Scaling_Architectures/Implementing_ASG.md)
   * [Elastic Load Balancers](./docs/6_Scaling_and_Resilience/6a_Scaling_Architectures/ELB.md)
+* **CloudFront Essentials:**
+  * [CloudFront Architecture](./docs/6_Scaling_and_Resilience/6b_CloudFront_Essentials/CloudFront_Architecture.md)
+  * [Creating and Working with Distributions](./docs/6_Scaling_and_Resilience/6b_CloudFront_Essentials/Creating_and_Working_with_Distributions.md)
 
 --------------------------------
 
