@@ -121,6 +121,10 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
   * [S3 Storage Tiers, Intelligent-Tiering, and Lifecycle Policies](./docs/7_Storage/7a_S3/S3_Storage_Tiers_Intelligent-Tiering_Lifecycle_Policies.md)
   * [Versioning and Locking](./docs/7_Storage/7a_S3/S3_Versioning_and_Locking.md)
   * [Controlling Access to S3 Buckets](./docs/7_Storage/7a_S3/S3_Controlling_Access.md)
+  * [Cross-Region Replication](./docs/7_Storage/7a_S3/S3_Cross-Region_Replication.md)
+  * [Object Encryption](./docs/7_Storage/7a_S3/S3_Object_Encryption.md)
+  * [Optimizing S3 Performance](./docs/7_Storage/7a_S3/S3_Optimizing_Performance.md)
+  * [Glacier Architecture](./docs/7_Storage/7a_S3/Glacier_Architecture.md)
 
 --------------------------------
 
