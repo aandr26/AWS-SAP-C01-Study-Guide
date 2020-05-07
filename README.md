@@ -208,6 +208,7 @@ Additional links can be found in the content specific links above.
 ## Planned Approach
 
 * [ ] **Watch Linux Academy Course Through**
+* [ ] **Work Through Adrian Cantrill's SA Pro Course (If Available)**
 * [ ] **Watch AWS Digital Library:**
   * [ ] Exam Readiness: AWS Certified Solutions Architect – Professional
   * [ ] AWS Well-Architected
