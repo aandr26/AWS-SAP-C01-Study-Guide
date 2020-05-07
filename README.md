@@ -127,6 +127,10 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
   * [Glacier Architecture](./docs/7_Storage/7a_S3/Glacier_Architecture.md)
 * **Elastic File System (EFS):**
   * [EFS Architecture](./docs/7_Storage/7b_EFS/EFS_Architecture.md)
+* **FSx:**
+  * [FSx Architecture](./docs/7_Storage/7b_FSx/FSx_Architecture.md)
+* **Storage Gateway:**
+  * [File Gateways vs. Volume Gateways vs. Tape Gateway](./docs\7_Storage/7d_Storage_Gateway/File_vs_Volume_vs_Tape_Gateways.md)
 
 --------------------------------
 
