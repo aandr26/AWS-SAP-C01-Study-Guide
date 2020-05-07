@@ -2,9 +2,9 @@
 
 ## About
 
-This guide serves to help the user pass the AWS Certified Solutions Archictect Professional certification exam.
+This guide serves to help the user pass the AWS Certified Solutions Archictect - Professional exam.
 
-It generally follows the Linux Academy [AWS Certified Solutions Architect - Professional](https://linuxacademy.com/course/aws-certified-solutions-architect-professional-2018/) course.
+It generally follows the Linux Academy [AWS Certified Solutions Architect - Professional](https://linuxacademy.com/course/aws-certified-solutions-architect-professional-2018/) course, but includes some additional content that will supplement.
 
 --------------------------------
 
