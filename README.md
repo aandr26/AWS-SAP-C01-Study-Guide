@@ -103,6 +103,20 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
 * **CloudFront Essentials:**
   * [CloudFront Architecture](./docs/6_Scaling_and_Resilience/6b_CloudFront_Essentials/CloudFront_Architecture.md)
   * [Creating and Working with Distributions](./docs/6_Scaling_and_Resilience/6b_CloudFront_Essentials/Creating_and_Working_with_Distributions.md)
+  * [Working with Custom Origins](./docs/6_Scaling_and_Resilience/6b_CloudFront_Essentials/Custom_Origins.md)
+  * [CloudFront and Security](./docs/6_Scaling_and_Resilience/6b_CloudFront_Essentials/CloudFront_Security.md)
+  * [Optimizing Caching](./docs/6_Scaling_and_Resilience/6b_CloudFront_Essentials/Optimizing_Caching.md)
+  * [Lambda@Edge](./docs/6_Scaling_and_Resilience/6b_CloudFront_Essentials/Lambda_Edge.md)
+  * [Logging, Reporting, and Monitoring](./docs/6_Scaling_and_Resilience/6b_CloudFront_Essentials/Logging_Reporting_Monitoring.md)
+* **Route 53:**
+  * [Route 53 Architecture](./docs/6_Scaling_and_Resilience/6c_Route53/Route53_Architecture.md)
+  * [Advanced Route 53 Concepts](./docs/6_Scaling_and_Resilience/6c_Route53/Advanced_Route53_Concepts.md)
+
+--------------------------------
+
+#### Storage
+
+* **Object Storage: Amazon Simple Storage Service (S3):**
 
 --------------------------------
 
