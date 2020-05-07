@@ -119,7 +119,8 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
 * **Object Storage: Amazon Simple Storage Service (S3):**
   * [S3 Architecture](./docs/7_Storage/7a_S3/S3_Architecture.md)
   * [S3 Storage Tiers, Intelligent-Tiering, and Lifecycle Policies](./docs/7_Storage/7a_S3/S3_Storage_Tiers_Intelligent-Tiering_Lifecycle_Policies.md)
-  * [Versioning and Locking](./docs/7_Storage/7a_S3/Versioning_and_Locking.md)
+  * [Versioning and Locking](./docs/7_Storage/7a_S3/S3_Versioning_and_Locking.md)
+  * [Controlling Access to S3 Buckets](./docs/7_Storage/7a_S3/S3_Controlling_Access.md)
 
 --------------------------------
 

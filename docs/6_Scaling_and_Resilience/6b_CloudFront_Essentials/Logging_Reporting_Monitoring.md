@@ -5,5 +5,5 @@
 * **Useful Links:**
   * [Access Logs](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/AccessLogs.html)
 
-* Exam Tips:
+* **Exam Tips:**
   * Can enable additional logging.
