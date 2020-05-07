@@ -169,6 +169,9 @@ Additional links can be found in the content specific links above.
     * [Transit Gateway](https://aws.amazon.com/transit-gateway/faqs/)
     * [Key Management Service (KMS)](https://aws.amazon.com/kms/faqs/)
 
+* **Adrian Cantril:**
+  * [Solutions Architect - Professional Course](https://learn.cantrill.io/p/aws-certified-solutions-architect-professional)
+
 * **Udemy:**
   * [Stephane Maarek's Course](https://www.udemy.com/course/aws-solutions-architect-professional/)
 
