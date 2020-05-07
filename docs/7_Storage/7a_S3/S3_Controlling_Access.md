@@ -8,3 +8,5 @@
 
 * **Exam Tips:**
   * Private by default
+  * Tags and resource policies can work together to grant extensive permissions.
+  * Questions about object specfifc permissions and access via a URL, define an object level ACL.

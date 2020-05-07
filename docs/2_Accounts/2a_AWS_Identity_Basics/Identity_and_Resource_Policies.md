@@ -9,9 +9,9 @@
   * [AWS re:Invent 2018: Become an IAM Policy Master in 60 Minutes or Less](https://www.youtube.com/watch?v=YQsK4MtsELU&t=75s)
 
 * **Exam Tips:**
-  * Policy General:
+  * **Policy General:**
     * Expect a question on policy variables.
-  * Principal:
+  * **Principal:**
     * A principal is not required (or [allowed](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_principal.html)) in an identity policy - It is assumed.
     * It is required in a resource policy.
       * Easy way to quickly distinguish between a **resource** policy and an **identity** policy is the *__presence of the principal statement__*.
@@ -25,15 +25,18 @@
       * AWS services
       * Anonymous users
     * Cannot use a wildcard (*) when users are specified as the principal. Principals must be specifically named.
-  * Version:
+  * **Version:**
     * Always use the version statement: "_**2012-10-17**_"
       * Failure to use "_**2012-10-17**_" means it will default to the older version of the policy language "_**2008-10-17**_".
       * "_**2008-10-17**_" does not support items such as variables.
-  * Required Elements:
-    * **S**tatement
-    * **E**ffect
-    * **A**ction or NotAction
-    * **R**esource or NotResource
+  * **Required Elements:**
+    * Remember a delicious steak being SEARed:
+      * **S**tatement
+      * **E**ffect
+      * **A**ction or NotAction
+      * **R**esource or NotResource
+
+![Remember a delicious steak being SEARed](./../../../Images/louis-hansel-shotsoflouis-oyUqUV1Q0Zg-unsplash.jpg "Photo by Louis Hansel @shotsoflouis on Unsplash")
 
 ## Policy Document Examples
 
