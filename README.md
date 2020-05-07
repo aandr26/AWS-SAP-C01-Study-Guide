@@ -125,6 +125,8 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
   * [Object Encryption](./docs/7_Storage/7a_S3/S3_Object_Encryption.md)
   * [Optimizing S3 Performance](./docs/7_Storage/7a_S3/S3_Optimizing_Performance.md)
   * [Glacier Architecture](./docs/7_Storage/7a_S3/Glacier_Architecture.md)
+* **Elastic File System (EFS):**
+  * [EFS Architecture](./docs/7_Storage/7b_EFS/EFS_Architecture.md)
 
 --------------------------------
 
