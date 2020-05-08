@@ -134,6 +134,18 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
 
 --------------------------------
 
+#### Databases
+
+* **Databases Introduction:**
+  * [EC2 Self-Managed Databases](./docs/8_Databases/8a_DB_Introduction/EC2_Self-Managed_DB.md)
+  * [Database Data Models and Engines](./docs/8_Databases/8a_DB_Introduction/DB_Models_Engines.md)
+* **SQL Databases:**
+  * [Amazon Relational Database Service (RDS)](./docs/8_Databases/8b_SQL/RDS.md)
+  * [Aurora](./docs/8_Databases/8b_SQL/Aurora.md)
+  * [Athena](./docs/8_Databases/8b_SQL/Athena.md)
+
+--------------------------------
+
 ### Useful Links
 
 Additional links can be found in the content specific links above.
