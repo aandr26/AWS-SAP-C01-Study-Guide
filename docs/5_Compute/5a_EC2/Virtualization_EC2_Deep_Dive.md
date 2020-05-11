@@ -9,6 +9,7 @@
   * [EC2 instance history](https://aws.amazon.com/blogs/aws/ec2-instance-history/)
   * [EC2 instance types](https://aws.amazon.com/ec2/instance-types/)
   * [Burstable performance instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/burstable-performance-instances.html)
+  * [VMware Cloud on AWS: Deep Dive](https://www.youtube.com/watch?v=RStQrGmHqy0)
 
 * **Exam Tips:**
   * If an exam question mentions Nitro, assume unless obvious otherwise, that Nitro is correct.

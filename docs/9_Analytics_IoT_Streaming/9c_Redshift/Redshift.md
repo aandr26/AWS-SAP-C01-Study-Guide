@@ -1,5 +1,7 @@
 # Amazon Redshift Architecture
 
+* [Return to table of contents](../../../README.md)
+
 * **Useful Links:**
   * [Deep Dive and Best Practices for Amazon Redshift](https://www.youtube.com/watch?v=TJDtQom7SAA)
   * [Distribution Styles](https://docs.aws.amazon.com/redshift/latest/dg/c_choosing_dist_sort.html)
@@ -15,3 +17,4 @@
     * Kinesis
     * S3
     * Data pipelines
+  * Can copy automatic and manual snapshots to a destination region, and they have indpendent retention periods.

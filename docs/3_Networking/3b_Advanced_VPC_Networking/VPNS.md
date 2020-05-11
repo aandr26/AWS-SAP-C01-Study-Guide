@@ -2,6 +2,9 @@
 
 * [Return to table of contents](../../../README.md)
 
+* **Useful Links:**
+  * [AWS VPN Solutions](https://www.youtube.com/watch?v=qmKkbuS9gRs)
+
 * **Exam Tips:**
   * When to use a VPN
   * Know the archictecture.

@@ -154,6 +154,20 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
 
 #### Analytics, IoT, and Streaming
 
+* **Elastic Map Reduce:**
+  * [Elastic Map Reduce (EMR)](./docs/9_Analytics_IoT_Streaming/9a_EMR/EMR.md)
+* **Kinesis:**
+  * [Kinesis](./docs/9_Analytics_IoT_Streaming/9b_Kinesis/Kinesis.md)
+  * [Kinesis Firehose](./docs/9_Analytics_IoT_Streaming/9b_Kinesis/Kinesis_Firehose.md)
+* **Redshift:**
+  * [Redshift Overview](./docs/9_Analytics_IoT_Streaming/9c_Redshift/Redshift.md)
+* **IoT Platform:**
+  * [IoT Overview](./docs/9_Analytics_IoT_Streaming/9d_IoT_Platform/IoT_Architecture.md)
+* **QuickSight:**
+  * [QuickSight Overview](./docs/9_Analytics_IoT_Streaming/9e_QuickSight/QuickSight.md)
+* **Elasticsearch:**
+  * [Elasticsearch Overview](./docs/9_Analytics_IoT_Streaming/9f_Elasticsearch/Elasticsearch.md)
+
 --------------------------------
 
 ### Useful Links

@@ -7,6 +7,8 @@
   * [Hosting a Static Website on Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html)
   * [Listing Keys Hierarchically Using a Prefix and Delimiter](https://docs.aws.amazon.com/AmazonS3/latest/dev/ListingKeysHierarchy.html)
   * [Bucket Restrictions and Limitations](https://docs.aws.amazon.com/AmazonS3/latest/dev/BucketRestrictions.html)
+  * [Best Practices for Amazon S3 and Amazon S3 Glacier](https://www.youtube.com/watch?v=rHeTn9pHNKo)
+  * [What's New in Amazon S3, Amazon EFS, Amazon EBS, & more](https://www.youtube.com/watch?v=gidUa4lJd9Y)
 
 * **Notes:**
   * S3 is an object level storage system.

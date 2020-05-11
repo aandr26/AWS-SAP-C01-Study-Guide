@@ -6,6 +6,7 @@
   * [IAM Database Authentication for MySQL and PostgreSQL](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.IAMDBAuth.html#UsingWithRDS.IAMDBAuth.Availability)
   * [Enabling and Disabling IAM Database Authentication](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.IAMDBAuth.Enabling.html)
   * [How do I allow users to connect to Amazon RDS with IAM credentials?](https://aws.amazon.com/premiumsupport/knowledge-center/users-connect-rds-iam/)
+  * [What's New in Amazon Relational Database Service](https://www.youtube.com/watch?v=HuvUD7-RyoU)
 
 * **Exam Tips:**
   * Most use cases, General Purpose SSD is fine.

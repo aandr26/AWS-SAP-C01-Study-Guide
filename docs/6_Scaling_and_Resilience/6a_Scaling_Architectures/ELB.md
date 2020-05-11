@@ -8,6 +8,7 @@
   * [Authenticate users](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/listener-authenticate-users.html)
   * [Application introduction](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html)
   * [Classic introduction](https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/introduction.html)
+  * [Elastic Load Balancing: Deep Dive and Best Practices](https://www.youtube.com/watch?v=VIgAT7vjol8)
 
   * **Exam Tips:**
     * Need to know what scenario to use specific types of ELBs.
