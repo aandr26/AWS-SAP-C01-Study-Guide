@@ -145,6 +145,14 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
   * [Athena](./docs/8_Databases/8b_SQL/Athena.md)
 * **NoSQL Databases:**
   * [DynamoDB](./docs/8_Databases/8c_NoSQL/DynamoDB_Architecture.md)
+  * [DocumentDB](./docs/8_Databases/8c_NoSQL/DocumentDB.md)
+  * [General NoSQL - Neptune & QLDB](./docs/8_Databases/8c_NoSQL/General.md)
+* **ElastiCache:**
+  * [ElastiCache Architecture](./docs/8_Databases/8d_ElastiCache/ElastiCache_Architecture.md)
+
+--------------------------------
+
+#### Analytics, IoT, and Streaming
 
 --------------------------------
 
