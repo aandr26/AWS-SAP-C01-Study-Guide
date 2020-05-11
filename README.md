@@ -143,6 +143,8 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
   * [Amazon Relational Database Service (RDS)](./docs/8_Databases/8b_SQL/RDS.md)
   * [Aurora](./docs/8_Databases/8b_SQL/Aurora.md)
   * [Athena](./docs/8_Databases/8b_SQL/Athena.md)
+* **NoSQL Databases:**
+  * [DynamoDB](./docs/8_Databases/8c_NoSQL/DynamoDB_Architecture.md)
 
 --------------------------------
 
