@@ -3,7 +3,8 @@
 * [Return to table of contents](../../../README.md)
 
 * **Useful Links:**
-  * [AWS re:Invent 2018: Deep Dive on Amazon Aurora with MySQL Compatibility](https://www.youtube.com/watch?v=U42mC_iKSBg)
+  * [Deep Dive on Amazon Aurora with MySQL Compatibility](https://www.youtube.com/watch?v=U42mC_iKSBg)
+  * [What's New in Amazon Aurora](https://www.youtube.com/watch?v=2WG01wJIGSQ)
 
 * **Exam Tips:**
   * Custom designed by AWS:
