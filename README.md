@@ -170,6 +170,20 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
 
 --------------------------------
 
+#### Deployment and Operations
+
+* **Monitoring:**
+  * [CloudWatch](./docs/10_Deployment_and_Operations/10a_Monitoring/CloudWatch.md)
+  * [CloudTrail](./docs/10_Deployment_and_Operations/10a_Monitoring/CloudTrail.md)
+* **Systems Manager:**
+  * [Systems Manager Overview](./docs/10_Deployment_and_Operations/10b_Systems_Manager/Systems_Manager.md)
+  * [Parameters Store](./docs/10_Deployment_and_Operations/10b_Systems_Manager/SSM_Parameters_Store.md)
+* **CloudFormation:**
+* **Elastic Beanstalk:**
+* **OpsWorks:**
+
+--------------------------------
+
 ### Useful Links
 
 Additional links can be found in the content specific links above.
