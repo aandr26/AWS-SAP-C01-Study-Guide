@@ -187,6 +187,27 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
 * **Elastic Beanstalk:**
   * [Elastic Beanstalk Overview](./docs/10_Deployment_and_Operations/10d_Elastic_Beanstalk/Elastic_Beanstalk_Overview.md)
 * **OpsWorks:**
+  * [OpWorks Overview](./docs/10_Deployment_and_Operations/10e_OpsWorks/OpWorks_Overview.md)
+
+--------------------------------
+
+#### Migrations and Hybrid Architectures
+
+* **AWS Data Pipeline:**
+  * [Data Pipelines Overview](./docs/11_Migrations_and_Hybrid_Architectures/11a_Data_Pipelines/Data_Pipelines_Essentials.md)
+* **AWS Snow\*:**
+  * [Snowball and Snowmobile](./docs/11_Migrations_and_Hybrid_Architectures/11b_AWS_Snow/Snowball_Snowmobile.md)
+
+--------------------------------
+
+#### Application Integration
+
+* **Simple Queue Service (SQS):**
+  * [SQS Overview](./docs/12_Application_Intergration/12a_SQS/SQS_Overview.md)
+* **Simple Notification Service (SNS):**
+  * [SNS Overview](./docs/12_Application_Intergration/12b_SNS/SNS_Architecture.md)
+* **Amazon MQ:**
+* **Workflow Orchestration:**
 
 --------------------------------
 
