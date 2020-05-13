@@ -185,6 +185,7 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
   * [Stack References and Nested Stacks](./docs/10_Deployment_and_Operations/10c_CloudFormation/CloudFromation_Nested_Stacks.md)
   * [Using CloudFormation for Disaster Recovery](./docs/10_Deployment_and_Operations/10c_CloudFormation/CloudFormation_DR.md)
 * **Elastic Beanstalk:**
+  * [Elastic Beanstalk Overview](./docs/10_Deployment_and_Operations/10d_Elastic_Beanstalk/Elastic_Beanstalk_Overview.md)
 * **OpsWorks:**
 
 --------------------------------
