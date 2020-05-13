@@ -179,6 +179,11 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
   * [Systems Manager Overview](./docs/10_Deployment_and_Operations/10b_Systems_Manager/Systems_Manager.md)
   * [Parameters Store](./docs/10_Deployment_and_Operations/10b_Systems_Manager/SSM_Parameters_Store.md)
 * **CloudFormation:**
+  * [CloudFormation Overview](./docs/10_Deployment_and_Operations/10c_CloudFormation/CloudFormation_Overview.md)
+  * [Stack Updates](./docs/10_Deployment_and_Operations/10c_CloudFormation/CloudFormation_Stack_Updates.md)
+  * [Template Portability and Reuse](./docs/10_Deployment_and_Operations/10c_CloudFormation/CloudFormation_Template_Portability_Resuse.md)
+  * [Stack References and Nested Stacks](./docs/10_Deployment_and_Operations/10c_CloudFormation/CloudFromation_Nested_Stacks.md)
+  * [Using CloudFormation for Disaster Recovery](./docs/10_Deployment_and_Operations/10c_CloudFormation/CloudFormation_DR.md)
 * **Elastic Beanstalk:**
 * **OpsWorks:**
 
