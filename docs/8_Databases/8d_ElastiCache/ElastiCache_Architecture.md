@@ -6,6 +6,7 @@
   * [ElastiCache Use Cases](https://docs.aws.amazon.com/AmazonElastiCache/latest/mem-ug/elasticache-use-cases.html)
 
 * **Exam Tips:**
+  * Supports any RDS DB or even no DB at all is required.
   * Be aware of scenarios where it is need:
     * Used to improve database performance by caching query results.
   * Understand the differences between Redis and Memcached:

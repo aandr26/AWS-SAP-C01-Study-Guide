@@ -207,7 +207,9 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
 * **Simple Notification Service (SNS):**
   * [SNS Overview](./docs/12_Application_Intergration/12b_SNS/SNS_Architecture.md)
 * **Amazon MQ:**
+  * [Amazon MQ Overview](./docs/12_Application_Intergration/12c_MQ\MQ_Essentials.md)
 * **Workflow Orchestration:**
+  * [SWS and Step Functions](./docs/12_Application_Intergration/12d_Workflow_Orchestration/SWS.md)
 
 --------------------------------
 

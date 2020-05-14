@@ -20,5 +20,6 @@
 
 * **Exam Tips:**
   * Cross-Origin-Resource-Sharing
+  * Uses gateway endpoints - Does not support interface endpoints.
   * Buckets are actually flat structures.
   * Be aware that you can define public access settings at the account level.
