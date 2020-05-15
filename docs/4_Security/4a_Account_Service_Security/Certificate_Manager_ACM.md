@@ -8,4 +8,6 @@
 * **Exam Tips:**
   * Need to be aware of the architect of ACM, not implementation.
   * Natively integrates
-  Cannot use on EC2 instances.
+  * Cannot use on EC2 instances.
+  * For ELB with one site you must have a cert for each Region.
+  * CloudFront requires the cert requested in the US East (N. Virginia)

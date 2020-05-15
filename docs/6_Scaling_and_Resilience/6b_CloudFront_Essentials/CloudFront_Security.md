@@ -11,6 +11,7 @@
   * [Using field-level encryption](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/field-level-encryption.html)
 
 * **Exam Tips:**
+  * Can use with ACM, but the cert must be requested for the US East (N. Virginia) region.
   * Be aware of the security requirements for SSL:
     * Not a single connection:
       * Viewer connection to edge location.

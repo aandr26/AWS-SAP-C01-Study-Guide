@@ -2,6 +2,9 @@
 
 * [Return to table of contents](../../../README.md)
 
+* **Useful Links:**
+  * [Tutorials Dojo Config Cheat Sheet](https://tutorialsdojo.com/aws-config/)
+
 * **Notes:**
   * Two main functions:
     * Able to monitor the configuration of resources over time within an AWS accounts.

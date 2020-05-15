@@ -8,22 +8,26 @@
   * [AWS Service Limits](https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html)
   * [Service Endpoints and Quotas](https://docs.aws.amazon.com/general/latest/gr/aws-general.pdf#aws-service-information)
   * [IAM Limits](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_iam-limits.html)
-  * [AWS re:Invent 2019: Architecting security & governance across your landing zone (SEC325)](https://youtu.be/zVJnenaD3U8)
+  * [RI Sharing in Organizations](https://aws.amazon.com/blogs/publicsector/controlling-how-your-aws-credits-and-ri-discounts-are-shared-across-your-organization/)
 
-* **Notes:**
+* **Exam Tips:**
   * Used to be known as the '_payer_' account, now known as the '_master_' account.
   * Accounts joined to the organization are known as member accounts.
   * IAM Policy management.
-  * Consolidated billing:
+  * **Consolidated billing:**
     * May gain you volume discounts, thus reducing your bill.
+  * **RI Credit Sharing:**
+    * You can enable Reserved Instance sharing in the member accounts and then purchase Reserved Instances in the master account.
+      * EC2
+      * RDS
+      * Redshift
+    * You can disable credit sharing globally in a master account- it is enabled by default.
+    * Each member account can disable or enable RI sharing. This is generally done on a use case basis, as in when you want to keep certian business units seperate.
+    * The billing console in the master account allows you to manage which member accounts do or do not take part in RI sharing. Again, the default is to share RI.
   * OUs = Organizational Unit.
   * Treat master account as a billing and user store.
 
 ## Service Control Policies
-
-* **Notes:**
-
-* SCP inherit downwards, but they _do not_ affect the master account.
 
 * **Exam Tips:**
   * They do not provide actual permissions, they only allow or deny actions.

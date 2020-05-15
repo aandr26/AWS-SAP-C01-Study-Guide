@@ -7,6 +7,7 @@
   * [Enabling and Disabling IAM Database Authentication](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.IAMDBAuth.Enabling.html)
   * [How do I allow users to connect to Amazon RDS with IAM credentials?](https://aws.amazon.com/premiumsupport/knowledge-center/users-connect-rds-iam/)
   * [What's New in Amazon Relational Database Service](https://www.youtube.com/watch?v=HuvUD7-RyoU)
+  * [Tutorials Dojo RDS Cheat Sheet](https://tutorialsdojo.com/amazon-relational-database-service-amazon-rds/)
 
 * **Exam Tips:**
   * Most use cases, General Purpose SSD is fine.

@@ -36,10 +36,15 @@
     * Provisioned:
       * Requires capacity planning.
       * More cost effective if you can determine the requirements.
-    * On-demand:
+    * **On-demand:**
       * No capacity planning required, pay for what you use.
       * Allows for no performance cap.
       * Can be more expensive.
-    * Global Tables:
+    * **Global Tables:**
       * Requires streams and On-demand billing or autoscaling.
       * Global Tables enable you to use DynamoDB as a fully-managed, multi-region, multi-master database.
+      * **Local Seconday Index:**
+        * Can only be created at the same time as the table.
+        * Partition key must be same as base table.
+        * Sort key consists of exactly one scaler attribute.
+        * The base table's sort key is projected into the index, acting as a non-key attribute.

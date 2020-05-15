@@ -12,6 +12,11 @@
 
 * **Exam Tips:**
   * Not able to explicity deny traffic.
+  * Does not work on DNS names:
+    * Logical resources
+    * IPs
+    * CIDR ranges
   * Unless explicitly allowed, there is a hidden implicit deny.
   * Any other logical resources can be referenced.
   * Able to add functional, role based security.
+  * You can use the CLI to export the definitions of a SG that you can than use to make a new security group in another region.

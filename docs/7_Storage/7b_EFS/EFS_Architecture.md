@@ -6,6 +6,7 @@
   * [Amazon EFS Performance](https://docs.aws.amazon.com/efs/latest/ug/performance.html)
   * [Amazon EFS Performance Tips](https://docs.aws.amazon.com/efs/latest/ug/performance-tips.html)
   * [Using the amazon-efs-utils Tools](https://docs.aws.amazon.com/efs/latest/ug/using-amazon-efs-utils.html)
+  * [Tutorials Dojo EFS Cheat Sheet](https://tutorialsdojo.com/amazon-efs/)
 
 * **Exam Tips:**
   * Questions about shared file systems, mountable - specifically Linux?
