@@ -17,3 +17,5 @@
     * Uses roles for its permissions.
   * State manager:
     * Apply a desired state to managed resources.
+  * If you used SSM to reset passwords, you'll need the proper KMS permissions attached to the instance role.
+  * You can use a KMS key to encrypt sessions.
