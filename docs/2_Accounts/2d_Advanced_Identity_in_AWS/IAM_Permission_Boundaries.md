@@ -7,3 +7,6 @@
 
 * **Exam Tips:**
   * Understand process flow.
+  * Only impact identity permissions.
+    * Can be applied to users and roles.
+  * Don't grant any permissions, they just define the maximum permissions an identity can recieve.

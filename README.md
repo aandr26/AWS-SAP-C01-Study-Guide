@@ -31,10 +31,11 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
   * [AWS Service Catalog](./docs/2_Accounts/2b_Account_Management/Service_Catalog.md)
   * [Billing](./docs/2_Accounts/2c_Billing_Models/Billing.md)
 
-* **Advanced Identity in AWS:**
+* **Advanced Identity and Permissions in AWS:**
   * [IAM Permission Boundaries](./docs/2_Accounts/2d_Advanced_Identity_in_AWS/IAM_Permission_Boundaries.md)
   * [Identity Federation](./docs/2_Accounts/2d_Advanced_Identity_in_AWS/Identity_Federation.md)
   * [Policy Evaluation Logic](./docs/2_Accounts/2d_Advanced_Identity_in_AWS/Policy_Evaluation_Logic.md)
+  * [Resource Access Manager](./docs/2_Accounts/2d_Advanced_Identity_in_AWS/Resource_Access_Manager.md)
 
 --------------------------------
 
@@ -42,7 +43,6 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
 
 * **Essentials:**
   * [VPC Basics](./docs/3_Networking/3a_VPC_Essentials/VPC_Basics.md)
-  * [Resource Access Manager](./docs/3_Networking/3a_VPC_Essentials/Resource_Access_Manager.md)
   * [VPC Routing](./docs/3_Networking/3a_VPC_Essentials/VPC_Routing.md)
   * [Network Access Control Lists](./docs/3_Networking/3a_VPC_Essentials/NACLs.md)
   * [Security Groups](./docs/3_Networking/3a_VPC_Essentials/Security_Groups.md)
