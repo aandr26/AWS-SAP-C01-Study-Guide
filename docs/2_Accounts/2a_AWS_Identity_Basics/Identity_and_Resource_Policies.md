@@ -11,6 +11,14 @@
 * **Exam Tips:**
   * **Policy General:**
     * Expect a question on policy variables.
+    * Square brackets ```[]``` in JSON indicate a list of things.
+      * Determine how many statements there are, and what they effect they are providing:
+        * Explicit Deny > Explicit Allow > Implicit Deny (Default)
+        * Look for overlap
+    * Condition Block
+    * For resources in a statement, determine a resource (eg. S3 bucket) or sub-resource (eg. Objects inside an S3 bucket)
+    * Generally not going to see a policy with a deny only statement, as it won't do anything since everything is default implicit deny.
+    * Be very mindful of the usage of ```Not``` in policies.
   * **Principal:**
     * A principal is not required (or [allowed](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_principal.html)) in an identity policy - It is assumed.
     * It is required in a resource policy.
