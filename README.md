@@ -89,6 +89,8 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
   * [Serverless and Event-Driven Architectures](./docs/5_Compute/5c_Serverless/Serverless_Event-Driven_Archictectures.md)
   * [Lambda Layers](./docs/5_Compute/5c_Serverless/Lambda_Layers.md)
   * [API Gateway](./docs/5_Compute/5c_Serverless/API_Gateway.md)
+* **Workspaces:**
+  * [Workspaces Overview](./docs/5_Compute/5d_Workspaces/Workspaces_Overview.md)
 
 --------------------------------
 

@@ -45,6 +45,12 @@
     * [IAM](https://docs.aws.amazon.com/general/latest/gr/iam-service.html)
     * [EBS Volumes](https://docs.aws.amazon.com/general/latest/gr/ebs-service.html)
     * [S3 Buckets](https://docs.aws.amazon.com/general/latest/gr/s3.html)
+    * [Using Service Quotas Request Templates](https://docs.aws.amazon.com/servicequotas/latest/userguide/organization-templates.html)
+  * You can request service quotas for most services.
+    * Some services do not support quotas.
+  * Perferred method is to use the service quotas console.
+    * Can use the cli to request more.
+  * You can configure CloudWatch alarms for service qoutas limits.
 
 ## AWS Support Tiers
 
