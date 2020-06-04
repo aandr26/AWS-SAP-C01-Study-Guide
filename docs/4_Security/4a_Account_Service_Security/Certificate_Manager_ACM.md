@@ -4,6 +4,7 @@
 
 * **Useful Links:**
   * [ACM Concepts](https://docs.aws.amazon.com/acm/latest/userguide/acm-concepts.html)
+  * [ACM FAQs](https://aws.amazon.com/certificate-manager/faqs/)
 
 * **Exam Tips:**
   * Need to be aware of the architect of ACM, not implementation.

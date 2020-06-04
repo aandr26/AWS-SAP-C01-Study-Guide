@@ -8,7 +8,7 @@
 
 * **Exam Tips:**
   * Access console as well as cli and api:
-    * Use AssumeRoleWithSAML
+    * Use ```AssumeRoleWithSAML```
   * **SAML 2.0:**
     * Indirectly use on-premises IDs with AWS (Console and CLI)
     * Used when using an Enterpris Identity Provider that is also SAML 2.0 compatible

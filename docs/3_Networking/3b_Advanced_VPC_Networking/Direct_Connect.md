@@ -7,7 +7,8 @@
   * [Multiple Data Center HA Network Connectivity](https://aws.amazon.com/answers/networking/aws-multiple-data-center-ha-network-connectivity)
   * [Direct Connect](https://aws.amazon.com/directconnect/faqs/)
   * [Designing Hybrid Networks in AWS](https://app.pluralsight.com/library/courses/designing-hybrid-networks-aws/table-of-contents)
-
+  * [AWS Direct Connect Gateway – Inter-Region VPC Access](https://aws.amazon.com/blogs/aws/new-aws-direct-connect-gateway-inter-region-vpc-access/)
+  
 * **Exam Notes:**
   * Terrabytes of data? Direct Connect.
   * Remember the set up time required - Weeks to months.

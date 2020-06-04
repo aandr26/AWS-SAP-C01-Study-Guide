@@ -13,7 +13,9 @@
   * Directing traffic through a single origination point.
 
 * **Exam Tips:**
-  * Gateway endtpoints:
+  * The endpoint controls restrictions.
+  * Only limits access when it is being access through that endpoint.
+  * **Gateway endpoints:**
     * Support S3 and DynamoDB
     * Don't occupy specific subnet
     * Are highly-available.
@@ -21,13 +23,13 @@
     * Can utilize policies, but not security groups.
     * Can restrict resources using resorce policies.
     * Cannot be extended outside the VPC.
-  * Interface endpoints:
+  * **Interface endpoints:**
     * Support majority of AWS services.
     * Use DNS.
     * Can use private DNS to resolve to the public DNS name.
     * One interface per service, per AZ for high availbility.
     * Can be reached outside of VPC.
-    * 10GiB per second.
+    * 10 GiB per second.
 
 ## Example Resource Policy
 
