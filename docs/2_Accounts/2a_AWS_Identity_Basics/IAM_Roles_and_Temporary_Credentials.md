@@ -30,7 +30,7 @@
     * Request by an identity (AWS or External)
     * **A credential leak:**
       * Temp credentials cannot be invalidated on-demand - and so a specific technique needs to be used to handle credential leaks.
-      * Changing the trust policy has _no_ impact on existing credentials, only on future attemps to get those credentials.
+      * Changing the trust policy has _no_ impact on existing credentials, only on future attempts to get those credentials.
       * Changing the policy permissions will have an immediate impact on all credentials.
         * It would also impact _legitimate_ users.
       * You can add an inline deny of ```AWSRevokeOlderSessions``` which will affect any session issued before the current date and time.

@@ -7,3 +7,9 @@
   * [Traffic Flow](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/traffic-flow.html)
   * [Traffic Policies](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/traffic-policies.html)
   * [Multivalue vs Simple Policies](https://aws.amazon.com/premiumsupport/knowledge-center/multivalue-versus-simple-policies/)
+
+* **Exam Tips:**
+  * Inbound Endpoints:
+    * on-prem can forward to R53 resolver
+  * Outbound Endpoints:
+    * conditional forwarding of requests from R53 to on-prem.
