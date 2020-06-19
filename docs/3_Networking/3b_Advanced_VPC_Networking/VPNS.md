@@ -22,3 +22,11 @@
     * (3.) Direct Connect routes learned from BGP
     * (4.) Statically configured VPN route.
     * (5.) VPN routes learned from BPG
+  * Quick to set up (possibly under an hour)
+  * Virtual Private Gateway:
+    * Actually physical
+  * Max throughput of ~ 1.25Gbps
+  * Latency considerations - inconsistent, public internet
+  * Hourly cost, GB out cost, data cap (on premises)
+  * Can be used as a backup for Direct Connect.
+  * Can be used ontop of Direct Connect for security, providing encryption.
