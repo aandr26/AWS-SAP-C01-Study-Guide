@@ -24,28 +24,31 @@
   * AWS allocates a DX port in the DX location
     * 1000-Base-LX or 10GBASE-LR
   * Request a cross-connect into your network (You router)
-* Private VIF connects to a Virtual Private Gateway (VGW).
-* Public VIF, public zone services but not internet.
-* **From AWS:**
-  * 1Gbps => 10Gbps
-* **From Partner:**
-  * Ranges of speeds: 50Mbps => 10Gbps
-  * Hosted connection - a DX connection with _one_ VIF
-  * Hosted VIF - Single VIF with shared bandwidth*
-* **MISC:**
-  * Direct connect offers no encryption!
-    * Any data transiting unless encrypted by an application is not encrypted.
-  * Provision DX, provision public VIF and the create a site-to-site VPN across the VPN.
-  * No sharing internet data cap
-  * No sharing internet bandwidth
-  * No transit over the internet - low/consistent latency.
-  * Cheaper data transfer / faster speeds
-* **Link Aggregation Groups (LAGS):**
-  * Multiple physical connections act as one - Speed * n
-    * Provide less admin overhead, more speed, but not really more resilience.
-  * Max of 4 connections per LAG
-    * All must be same **speed**
-    * Must terminate at same location
-  * Lag active as long as MinimumLinks attribute is healthy
-
+  * Private VIF connects to a Virtual Private Gateway (VGW).
+  * Public VIF, public zone services but not internet.
+  * **From AWS:**
+    * 1Gbps => 10Gbps
+  * **From Partner:**
+    * Ranges of speeds: 50Mbps => 10Gbps
+    * Hosted connection - a DX connection with _one_ VIF
+    * Hosted VIF - Single VIF with shared bandwidth*
+  * **MISC:**
+    * Direct connect offers no encryption!
+      * Any data transiting unless encrypted by an application is not encrypted.
+    * Provision DX, provision public VIF and the create a site-to-site VPN across   the VPN.
+    * No sharing internet data cap
+    * No sharing internet bandwidth
+    * No transit over the internet - low/consistent latency.
+    * Cheaper data transfer / faster speeds
+  * **Link Aggregation Groups (LAGS):**
+    * Multiple physical connections act as one - Speed * n
+      * Provide less admin overhead, more speed, but not really more resilience.
+    * Max of 4 connections per LAG
+      * All must be same **speed**
+      * Must terminate at same location
+    * Lag active as long as MinimumLinks attribute is healthy
+  * **Transit VIFS:**
+    * Public VIF can access all AWS public regions
+      * VLAN and BGP session.
+    * Private VIF can only access VPC's in the same AWS region via VGWs
 ![Direct Connect Architectures](./../../../Images/DX_Architectures.png)

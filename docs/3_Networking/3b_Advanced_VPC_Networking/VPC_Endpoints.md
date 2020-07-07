@@ -16,18 +16,24 @@
   * The endpoint controls restrictions.
   * Only limits access when it is being access through that endpoint.
   * **Gateway endpoints:**
-    * Support S3 and DynamoDB
+    * Provide private access to S3 and DynamoDB
     * Don't occupy specific subnet
     * Are highly-available.
     * Don't need DNS, they use route tables.
     * Can utilize policies, but not security groups.
     * Can restrict resources using resorce policies.
+      * Only accept operations coming from a gateway endpoint. ie S3
     * Cannot be extended outside the VPC.
+    * Regional.
   * **Interface endpoints:**
     * Support majority of AWS services.
+      * Anything not S3 and DynamoDB
+    * Not highly available by default
+      * Add one endpoint, to one subnet, per AZ used in the VPC.
+    * Network access controlled via SGs
+    * Also support endpoint policies - What can be done with the endpoint.
     * Use DNS.
     * Can use private DNS to resolve to the public DNS name.
-    * One interface per service, per AZ for high availbility.
     * Can be reached outside of VPC.
     * 10 GiB per second.
 
