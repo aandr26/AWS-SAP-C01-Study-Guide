@@ -56,6 +56,8 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
   * [VPC Peering](./docs/3_Networking/3b_Advanced_VPC_Networking/VPC_Peering.md)
   * [VPNs](./docs/3_Networking/3b_Advanced_VPC_Networking/VPNS.md)
   * [Direct Connect](./docs/3_Networking/3b_Advanced_VPC_Networking/Direct_Connect.md)
+  * [Private Link](./docs/3_Networking/3b_Advanced_VPC_Networking/Private_Link.md)
+  * [Advanced VPC Structure](./docs/3_Networking/3b_Advanced_VPC_Networking/VPC_Structure.md)
 
 --------------------------------
 

@@ -13,4 +13,3 @@
     * /16 largest.
     * /28 smallest.
   * You cannot make any changes to existing DHCP option sets.
-  * You'll need to know how many subnets are required in a VPC.
