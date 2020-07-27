@@ -22,7 +22,7 @@
       * RDS
       * Redshift
     * You can disable credit sharing globally in a master account- it is enabled by default.
-    * Each member account can disable or enable RI sharing. This is generally done on a use case basis, as in when you want to keep certian business units seperate.
+    * Each member account can disable or enable RI sharing. This is generally done on a use case basis, as in when you want to keep certain business units separate.
     * The billing console in the master account allows you to manage which member accounts do or do not take part in RI sharing. Again, the default is to share RI.
   * OUs = Organizational Unit.
   * Treat master account as a billing and user store.
@@ -48,15 +48,15 @@
     * [Using Service Quotas Request Templates](https://docs.aws.amazon.com/servicequotas/latest/userguide/organization-templates.html)
   * You can request service quotas for most services.
     * Some services do not support quotas.
-  * Perferred method is to use the service quotas console.
+  * Preferred method is to use the service quotas console.
     * Can use the cli to request more.
-  * You can configure CloudWatch alarms for service qoutas limits.
+  * You can configure CloudWatch alarms for service quotas limits.
 
 ## AWS Support Tiers
 
 * **Exam Tips:**
-  * Difference between enhanced techical support.
-  * Architectual guidance.
+  * Difference between enhanced technical support.
+  * Architectural guidance.
     * Business and Enterprise
   * Programmatic case management.
     * Business and Enterprise

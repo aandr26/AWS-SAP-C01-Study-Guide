@@ -12,5 +12,6 @@
       * Public
       * Explicit
       * Implicit
-    * The archictecture and OS
+    * The architecture and OS
     * Block device matching of required volumes.
+    * Provision with an ASG and have time constraints, use a combination of AMI baking a bootstrapping.

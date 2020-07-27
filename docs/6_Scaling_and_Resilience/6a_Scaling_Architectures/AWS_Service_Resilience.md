@@ -10,7 +10,7 @@
     * Replicated across AZs in region.
   * **Route 53:**
     * Operates name servers from edge locations positioned globally.
-    * Seperate from regions.
+    * Separate from regions.
 * **Compute:**
   * **EC2/EBS:**
     * EC2 limited to a single AZ.
@@ -25,7 +25,7 @@
     * **ASG:**
       * Regional
       * If configured for all AZs in one region, the ASG can provision instances in any working AZs within the region in case of a failure in any given AZs.
-* **Netowrking:**  
+* **Networking:**  
   * **VPC:**
     * VPC is regional
       * Subnets cannot span AZs.
@@ -37,5 +37,5 @@
     * Can tolerate hardware failures.
   * **VPN:**
     * VPGW
-      * Publically available
+      * Publicly available
       * In multiple AZs (Think dual tunnel)

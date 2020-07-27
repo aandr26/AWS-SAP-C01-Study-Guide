@@ -5,7 +5,7 @@
 * **Useful Links:**
   * [AWS IAM Documentation](https://docs.aws.amazon.com/iam/)
 
-## Identity & Access Managment
+## Identity & Access Management
 
 Lets you manage identities and allocate the permissions required for different roles, groups,  users, and organizations.
 
@@ -20,7 +20,7 @@ Lets you manage identities and allocate the permissions required for different r
   * Identity Federation is one way to get around IAM user account limits (5000 users).
 
 * **Exam tips:**
-  * Familarize yourself with the Credential Report.
+  * Familiarize yourself with the Credential Report.
   * Watch for gotcha questions about groups
     * logging in as a group - you don't.
   * Expect a question on policy variables.

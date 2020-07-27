@@ -14,7 +14,7 @@
 ## Availability Zones
 
 * Own storage, compute, and network.
-* Seperate, isolated infrastructure components.
+* Separate, isolated infrastructure components.
 * Fault isolation domains.
 
 * **Example availability zones:**

@@ -9,8 +9,10 @@
 
 * **Exam Tips:**
   * Scenarios:
-    * Inspect cookies to deliver different versions of a reponse.
+    * Inspect cookies to deliver different versions of a response.
     * Different versions based on the device used to access.
     * Deliver different languages based on locations.
     * Advanced authentication based on a cookie.
   * The Lambda functions need to be deployed to us-East-1
+  * Node.js and Python
+  * Run in the AWS public space
