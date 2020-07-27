@@ -7,10 +7,10 @@
 
 * **Exam Tips:**
   * **Deployment Types - Image baking vs Bootstraping:**
-    * A flexiable deployment of EC2? AMI baking is not the way to go.
+    * A flexible deployment of EC2? AMI baking is not the way to go.
     * Need to deploy something at a certain speed?
-      * If using bootstraping, additional processing time is added.
-      * Gain flexability but lose speed.
+      * If using bootstrapping, additional processing time is added.
+      * Gain flexibility but lose speed.
   * **Autoscaling Groups:**
     * Know the dividing line between launch configurations and ASG.
     * **ASG:**
@@ -24,12 +24,12 @@
         * Specify on-demand or spot.
         * Can enable detailed monitoring.
         * Security groups.
-        * Keypairs.
+        * Key pairs.
       * Immutable, can create but not edit!
       * Any changes require a new launch configuration and then change the association in the ASG.
     * **Launch templates:**
-      * Very simular to launch configuration.
-      * Allow templete versioning.
+      * Very similar to launch configuration.
+      * Allow template versioning.
   * **Multi-AZ Implementations:**
     * Be sure to plan placement based on requirements.
     * Understand nominal instances required.

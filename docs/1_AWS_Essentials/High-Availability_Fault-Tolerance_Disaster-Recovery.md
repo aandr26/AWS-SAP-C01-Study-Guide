@@ -10,7 +10,7 @@
 
 ## Fault Tolerance
 
-* Have multiple reduancy
+* Have multiple redundancy
 * Allow system to operate even if only one of the resources is available.
 * System assumes failure and can run through failure.
 * More expense - parallel resources.

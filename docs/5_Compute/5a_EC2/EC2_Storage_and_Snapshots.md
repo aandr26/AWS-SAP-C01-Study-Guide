@@ -23,12 +23,12 @@
       * Elasticity
     * Maximum performance possible? Use Instance Store Volumes.
   * **EBS:**
-    * Supports a meximum per instance throughput of 1,750 MiB/s and 80,000 IOPS.
+    * Supports a maximums per instance throughput of 1,750 MiB/s and 80,000 IOPS.
     * Be aware of what storage you might use given a situation.
     * SSD Based:
       * General Purpose (gp2)
       * Provisioned IOPS SSD (io1)
-        * IOPS can scale seperately of the volume size.
+        * IOPS can scale separately of the volume size.
     * HDD:
       * Throughput Optimized (st1)
       * Cold HDD (sc1)

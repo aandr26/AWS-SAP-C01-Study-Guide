@@ -133,6 +133,7 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
   * [EFS Architecture](./docs/7_Storage/7b_EFS/EFS_Architecture.md)
 * **FSx:**
   * [FSx Architecture](./docs/7_Storage/7b_FSx/FSx_Architecture.md)
+  * [FSx Lustre](./docs/7_Storage/7c_FSx/FSx_Lustre.md)
 * **Storage Gateway:**
   * [File Gateways vs. Volume Gateways vs. Tape Gateway](./docs\7_Storage/7d_Storage_Gateway/File_vs_Volume_vs_Tape_Gateways.md)
 

@@ -14,13 +14,19 @@
     * Need to know what scenario to use specific types of ELBs.
     * Provides abstraction.
     * ELBs allow decoupling of the tiers.
+    * ELB is a DNS A record pointing at 1+ nodes per AZ
+    * Nodes (in one subnet per AZ) can scale
+    * Internet facing (public IPv4) load balancers can work with public or private instances.
+    * Internal facing IP is private only IPs.
+    * Listener configuration controls what the LB listens to.
+    * 8+ free IPs  per subnet, and /27 subnet to allow scaling.
     * **Classic Load Balancer:**
       * Not recommended
       * Not layer 7 device.
       * Can do SSL offloading by having the LB do the SSL/TLS work, freeing up some work on the instances.
     * **Application Load Balancers:**
       * Recommended LB to use within VPCs.
-      * Supports both IPv4 and IPv6 using dualstack.
+      * Supports both IPv4 and IPv6 using dual stack.
       * Associate target groups.
       * Understand up to layer 7 in the OSI model.
       * Does allow you to provide multiple success codes.
@@ -32,9 +38,11 @@
       * Can cope with multiple certificates.
       * HTTP/2 is supported.
       * Can have lambda functions as targets.
-      * Healthchecks defined at target group level.
+      * Health checks defined at target group level.
     * **Network Load Balancers:**
       * Operate at layer 4 of the OSI model.
       * TLS termination supported.
       * UDP and TCP both supported.
       * End-to-end encryption? = NLB
+    * **Cross-Zone Load Balancing:**
+      * Allows for more even distribution of loads.
