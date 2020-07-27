@@ -6,7 +6,7 @@
   * [Origin Failover](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/high_availability_origin_failover.html)
 
 * **Exam Tips:**
-  * Questions involving Adobe Flash Media Server TRMP require S3 and RTMP distribution type.
+  * Questions involving Adobe Flash Media Server RTMP require S3 and RTMP distribution type.
   * Can be integrated with WAF
   * Older browsers? Dedicated IP address for each edge location.
   * Can specify restrict view access.

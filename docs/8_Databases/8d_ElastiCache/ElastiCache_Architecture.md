@@ -12,8 +12,11 @@
   * Supports any RDS DB or even no DB at all is required.
   * Be aware of scenarios where it is need:
     * Used to improve database performance by caching query results.
+    * Used where read heavy workloads with low latency requirements.
+    * Reduces database workloads, meaning savings.
+    * Application needs to know to use caching. - Application changes.
   * Understand the differences between Redis and Memcached:
-    * Advanced datastructures beyond key value stores, you have to use Redis.
+    * Advanced data structures beyond key value stores, you have to use Redis.
     * Vertical scaling = Memcached
     * High Availability = Redis
     * Data Durability:
