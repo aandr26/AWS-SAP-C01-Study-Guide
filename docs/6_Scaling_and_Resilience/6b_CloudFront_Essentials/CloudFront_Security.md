@@ -19,16 +19,9 @@
         * Must use publicly trusted and valid cert.
       * **Origin:**
         * If S3, automatic, if ELB, can use ACM.
-<<<<<<< HEAD
-        * If using on-premises server, Must use publicaly trusted and valid cert.
-    * If using a custom domain, you have to use a custom CloudFront certificate, you cannot use the default.
-    * Does nothing by default to restrict access to an S3 dns endpoint.
-      * Can restricted use an Origin Cccess Identity (OAI)
-=======
         * If using on-premises server, Must use publicly trusted and valid cert.
     * Does nothing by default to restrict access to an S3 DNS endpoint.
       * Can restricted use an Origin Access Identity (OAI)
->>>>>>> cfda773ca5864c552a4180ea411659e00370dbc2
     * Be aware of how to configure signed URLs:
       * It is configured _per_ behavior - _not distribution_.
       * For a single behavior cannot have signed URLs and public access at same time.

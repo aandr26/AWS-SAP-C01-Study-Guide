@@ -10,7 +10,11 @@
 
 * **Exam Tips:**
   * Platform as a Service (PaaS)
-  * Be aware of the platforms supported in environments.
+  * Be aware of the platforms supported in environments:
+    * Built in languages, docker & custom platforms.
+  * Focus on code, low infrastructure.
+  * Fully customisable - uses AWS products under the covers.
+  * Will require app changes.
   * **Application:**
     * Container of environments, versions, environment configurations.
     * An application can have Web Server or Worker environments.

@@ -16,7 +16,7 @@
     * Reduces database workloads, meaning savings.
     * Application needs to know to use caching. - Application changes.
   * Understand the differences between Redis and Memcached:
-    * Advanced data structures beyond key value stores, you have to use Redis.
+    * Advanced data structures *beyond key value stores*, you have to use Redis.
     * Vertical scaling = Memcached
     * High Availability = Redis
     * Data Durability:
@@ -24,3 +24,11 @@
       * In the case a Redis node is rebooted, the AOF allows the Redis node to have a warm cache with the data intact.
       * Disabled by default, enabled by assigning a parameter group with ```appendonly``` set to yes.
       * You can use ```appendfsync``` to determine how often the AOF file is written to.
+
+| Memcached | Redis |
+| --------  | ----- |
+| Simple Data Structures | Advanced Structures|
+| No replication| Multi-AZ |
+| Multiple nodes (Sharding) | Replication (Scaled Reads) |
+| No backups | Backup & restore |
+| Multi-threaded | Transactions |
