@@ -25,5 +25,5 @@
 
 ## Edge Locations
 
-* Smalled pockets of infrastructure, distributed in major cities.
+* Small pockets of infrastructure, distributed in major cities.
 * Rack scale contain storage and content distribution capability.

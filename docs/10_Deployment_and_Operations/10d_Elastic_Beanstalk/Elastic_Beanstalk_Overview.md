@@ -12,9 +12,16 @@
   * Platform as a Service (PaaS)
   * Be aware of the platforms supported in environments:
     * Built in languages, docker & custom platforms.
+      * Go, Java SE, Tomcat
+      * .NET Core (Linux) & .NET (Windows)
+      * Node.js, PHP, Python & Ruby
+      * Single container Docker & multicontainer Docker
+      * Preconfigured Docker
+    * Hashicorp Packer = Custom EB
   * Focus on code, low infrastructure.
-  * Fully customisable - uses AWS products under the covers.
+  * Fully customizable - uses AWS products under the covers.
   * Will require app changes.
+  * Keep databases outside of Elastic Beanstalk
   * **Application:**
     * Container of environments, versions, environment configurations.
     * An application can have Web Server or Worker environments.
