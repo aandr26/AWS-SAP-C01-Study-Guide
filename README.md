@@ -2,7 +2,7 @@
 
 ## About
 
-This guide serves to help the user pass the AWS Certified Solutions Archictect - Professional exam.
+This guide serves to help the user pass the AWS Certified Solutions Architect - Professional exam.
 
 It generally follows the Linux Academy [AWS Certified Solutions Architect - Professional](https://linuxacademy.com/course/aws-certified-solutions-architect-professional-2018/) course, but includes some additional content that will supplement.
 
@@ -85,10 +85,10 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
   * [EC2 Instance Profiles and Roles](./docs/5_Compute/5a_EC2/EC2_Instance_Roles.md)
   * [HPC and Placement Groups](./docs/5_Compute/5a_EC2/HPC_Placement_Groups.md)
 * **Containers:**
-  * [ECS Architecture](./docs/5_Compute/5b_Containers/ECS_Archictecture.md)
+  * [ECS Architecture](./docs/5_Compute/5b_Containers/ECS_Architecture.md)
   * [ECS Security](./docs/5_Compute/5b_Containers/ECS_Security.md)
 * **Serverless:**
-  * [Serverless and Event-Driven Architectures](./docs/5_Compute/5c_Serverless/Serverless_Event-Driven_Archictectures.md)
+  * [Serverless and Event-Driven Architectures](./docs/5_Compute/5c_Serverless/Serverless_Event-Driven_Architectures.md)
   * [Lambda Layers](./docs/5_Compute/5c_Serverless/Lambda_Layers.md)
   * [API Gateway](./docs/5_Compute/5c_Serverless/API_Gateway.md)
 * **Workspaces:**
@@ -187,12 +187,14 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
   * [CloudFormation Overview](./docs/10_Deployment_and_Operations/10c_CloudFormation/CloudFormation_Overview.md)
   * [Stack Updates](./docs/10_Deployment_and_Operations/10c_CloudFormation/CloudFormation_Stack_Updates.md)
   * [Template Portability and Reuse](./docs/10_Deployment_and_Operations/10c_CloudFormation/CloudFormation_Template_Portability_Resuse.md)
-  * [Stack References and Nested Stacks](./docs/10_Deployment_and_Operations/10c_CloudFormation/CloudFromation_Nested_Stacks.md)
+  * [Stack References and Nested Stacks](./docs/10_Deployment_and_Operations/10c_CloudFormation/CloudFormation_Nested_Stacks.md)
   * [Using CloudFormation for Disaster Recovery](./docs/10_Deployment_and_Operations/10c_CloudFormation/CloudFormation_DR.md)
 * **Elastic Beanstalk:**
   * [Elastic Beanstalk Overview](./docs/10_Deployment_and_Operations/10d_Elastic_Beanstalk/Elastic_Beanstalk_Overview.md)
 * **OpsWorks:**
   * [OpWorks Overview](./docs/10_Deployment_and_Operations/10e_OpsWorks/OpWorks_Overview.md)
+* **AWS Code\***
+  * [AWS Code*](./docs/10_Deployment_and_Operations/10f_Code/AWS_Code.md)
 
 --------------------------------
 
@@ -238,7 +240,7 @@ Additional links can be found in the content specific links above.
     * [Deep Dive into Amazon Elastic File System (EFS)](https://www.aws.training/Details/Curriculum?id=25384)
   * **White Papers:**
     * [Securing Data at Rest with Encryption](https://d0.awsstatic.com/whitepapers/aws-securing-data-at-rest-with-encryption.pdf)
-    * [Web Appilcation Hosting in the AWS Cloud](https://d0.awsstatic.com/whitepapers/aws-web-hosting-best-practices.pdf?refid=em_)
+    * [Web Application Hosting in the AWS Cloud](https://d0.awsstatic.com/whitepapers/aws-web-hosting-best-practices.pdf?refid=em_)
     * [Migrating AWS Resources to a New Region](http://d0.awsstatic.com/whitepapers/aws-migrate-resources-to-new-region.pdf?refid=70138000001adyu)
     * [AWS Security Best Practices](https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf?refid=em_)
       * [Audio Version](https://soundcloud.com/serverless-guru-871496186/sets/aws-whitepapers)
@@ -254,11 +256,11 @@ Additional links can be found in the content specific links above.
     * [Lambda](https://aws.amazon.com/lambda/faqs/)
     * [API Gateway](https://aws.amazon.com/api-gateway/faqs/)
     * [DynamoDB](https://aws.amazon.com/dynamodb/faqs/)
-    * [CodePipline](https://aws.amazon.com/codepipeline/faqs/)
+    * [CodePipeline](https://aws.amazon.com/codepipeline/faqs/)
     * [CodeCommit](https://aws.amazon.com/codecommit/faqs/)
     * [CodeBuild](https://aws.amazon.com/codebuild/faqs/)
     * [Database Migration Service (DMS)](https://aws.amazon.com/dms/faqs/)
-    * [Oraganizations](https://aws.amazon.com/organizations/faqs/)
+    * [Organizations](https://aws.amazon.com/organizations/faqs/)
     * [Server Migration Service](https://aws.amazon.com/server-migration-service/faqs/)
     * [Serverless Application Model](https://aws.amazon.com/serverless/sam/faqs/)
     * [EC2 Systems Manager](https://aws.amazon.com/systems-manager/faq/)
@@ -323,11 +325,11 @@ Additional links can be found in the content specific links above.
   * [ ] Lambda
   * [ ] API Gateway
   * [ ] DynamoDB
-  * [ ] CodePipline
+  * [ ] CodePipeline
   * [ ] CodeCommit
   * [ ] CodeBuild
   * [ ] Database Migration Service (DMS)
-  * [ ] Oraganizations
+  * [ ] Organizations
   * [ ] Server Migration Service
   * [ ] Serverless Application Model
   * [ ] EC2 Systems Manager
@@ -340,7 +342,7 @@ Additional links can be found in the content specific links above.
   * [ ] 1 Whizlab
 * [ ] **Read Whitepapers:**
   * [ ] Securing Data at Rest with Encryption
-  * [ ] Web Appilcation Hosting in the AWS Cloud
+  * [ ] Web Application Hosting in the AWS Cloud
   * [ ] Migrating AWS Resources to a New Region
   * [ ] AWS Security Best Practices
   * [ ] Implementing Microservices on AWS

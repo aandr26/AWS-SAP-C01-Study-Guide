@@ -19,7 +19,8 @@
       * It is done using transaction logs in automatic backups.
     * Snapshots
   * **Replication:**
-    * Replication is between master and slave node.
+    * Replication is between master (primary) and slave (standby) node.
+      * Failure of primary and standby AZs would impact service.
     * No access to slave node when the master node is working.
     * No storage replication.
   * **Payment methods:**

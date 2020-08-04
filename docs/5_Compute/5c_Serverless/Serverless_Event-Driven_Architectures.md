@@ -1,4 +1,4 @@
-# Serverless and Event-Driven Archictectures
+# Serverless and Event-Driven Architectures
 
 * [Return to table of contents](../../../README.md)
 
@@ -9,5 +9,5 @@
   * A function should ideally do one activity and do it well.
   * Time limit for Lambda functions.
   * Keep them simple.
-  * Questions on how to increase effiancy:
+  * Questions on how to increase efficacy:
     * Understand event driven architecture benefits

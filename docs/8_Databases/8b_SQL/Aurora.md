@@ -8,11 +8,14 @@
 
 * **Exam Tips:**
   * Custom designed by AWS:
-    * MySQL and PostgreSQL compatability
+    * MySQL and PostgreSQL compatibility
     * 5x performance of MySQL
     * 3x performance of PostgreSQL
   * No master slave architecture.
   * Reader endpoints maps to any replica instances.
+  * Aurora Cluster Storage is replicated 6+ times across 3 availability zones at the storage level. 
+    * Only region failure would significantly impact service.
+  * Data is replicated at the storage level automatically
   * Individual endpoints can be reached using their endpoint ids.
   * Storage:
     * Up to 64 TB

@@ -11,6 +11,9 @@
   * [Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB](https://www.youtube.com/watch?v=HaEPXoXVf2k)
 
 * **Exam Tips:**
+  * Does not exist in a VPC, in public zone.
+  * A region failure would be needed to impact DynamoDB
+  * Replication between multiple nodes in multiple AZs
   * True serverless DB as a Service.
   * Two billing items to remember:
     * Total amount of data stored by the product, all tables, all regions.
@@ -18,11 +21,11 @@
       * Read capacity represents 4 KB of data
       * Write capacity represents 1 KB of data
     * Filtering does not reduce the capacity that is consumed.
-      * It is the sort key that resricts the items returned, and reduces the capacity consumed.
+      * It is the sort key that restricts the items returned, and reduces the capacity consumed.
   * In the exam preference a query operation.
     * Query can only ever query a single partition key.
   * A scan can check ranges.
-  * Key Structure:
+  * **Key Structure:**
     * Performance:
       * Over 10 GB = Partition is added.
       * Over 1000 write capacity units = Partition is added.
@@ -43,7 +46,8 @@
     * **Global Tables:**
       * Requires streams and On-demand billing or autoscaling.
       * Global Tables enable you to use DynamoDB as a fully-managed, multi-region, multi-master database.
-      * **Local Seconday Index:**
+      * Last writer wins
+      * **Local Secondary Index:**
         * Can only be created at the same time as the table.
         * Partition key must be same as base table.
         * Sort key consists of exactly one scaler attribute.
