@@ -11,7 +11,7 @@
     * Default
     * Pay for what you consume.
     * Per second billing.
-    * no capcity reservation
+    * no capacity reservation
     * no discount.
     * Use:
       * Short term workloads

@@ -17,4 +17,4 @@
     * Kinesis
     * S3
     * Data pipelines
-  * Can copy automatic and manual snapshots to a destination region, and they have indpendent retention periods.
+  * Can copy automatic and manual snapshots to a destination region, and they have independent retention periods.

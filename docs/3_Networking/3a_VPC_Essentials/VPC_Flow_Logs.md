@@ -6,7 +6,7 @@
   * [VPC Flow Logs](https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html)
 
 * **Exam Tips:**
-  * Flow Logs only provide access to the traffice metadata, not the actual IP traffic itself.
+  * Flow Logs only provide access to the traffic metadata, not the actual IP traffic itself.
   * What is logged:
     * Default format:
       * version

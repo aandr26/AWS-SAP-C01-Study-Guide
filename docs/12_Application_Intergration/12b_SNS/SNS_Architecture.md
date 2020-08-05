@@ -21,6 +21,6 @@
       * Lambda
       * SMS
   * **Publisher:**
-    * The entitiy that triggets the sending of a message.
+    * The entity that triggers the sending of a message.
   * **Fanout:**
     * Allows a SNS message to be replicated and pushed to multiple SQS queues.

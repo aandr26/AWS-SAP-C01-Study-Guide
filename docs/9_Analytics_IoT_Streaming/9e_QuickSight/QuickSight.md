@@ -3,8 +3,8 @@
 * [Return to table of contents](../../../README.md)
 
 * **Exam Tips:**
-  * Used for collating data from multiple sources and visualing presenting them.
-  * Know what it intergrates with:
+  * Used for collating data from multiple sources and visualizing presenting them.
+  * Know what it integrates with:
     * Athena
     * Aurora
     * Redshift

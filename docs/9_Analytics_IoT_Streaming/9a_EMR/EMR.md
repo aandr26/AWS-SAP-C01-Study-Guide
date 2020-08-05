@@ -9,7 +9,7 @@
 
 * **Exam Tips:**
   * EMR deployment options:
-    * Cluster for specific funtion.
+    * Cluster for specific function.
     * Create cluster to be long lasting for multiple workloads.
     * Cluster to be connected to and used interactively.
       * Run SQL like queries against hive.
@@ -18,9 +18,9 @@
   * Try to understand what Spark, Hive, and Pig do.
   * **EMR Cost and Performance Optimization:**
     * **Performance:**
-      * Launch the cluster as close to the data source as possible, in the same region is perferable.
+      * Launch the cluster as close to the data source as possible, in the same region is preferable.
     * **Cost:**
-      * Use lastest generations of the instance type.
+      * Use latest generations of the instance type.
       * Only use reserved instances _when_ you know the usage upfront.
       * If you are using per-second billing, it might make more sense to run more instances for a shorter amount of time to process jobs quicker.
         * The logic behind this is that since the hour minimum billing is no longer applicable, you can use more instances to process a job quicker and pay the same price or less.

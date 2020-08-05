@@ -9,7 +9,7 @@
   * Know the use cases
     * Store, Search, Analyze.
   * Sharing dashboards with others?
-    * Kinbana in Elasticsearch.
+    * Kibana in Elasticsearch.
   * Know the integration:
     * CloudWatch Logs
   * Performance concerns? It shouldn't be the master node.

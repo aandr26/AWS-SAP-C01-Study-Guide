@@ -4,4 +4,4 @@
 
 * **Exam Tips:**
   * Store data hierarchically
-  * Serverless, resilent, and scalable
+  * Serverless, resilient, and scalable

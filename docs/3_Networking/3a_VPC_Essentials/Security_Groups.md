@@ -11,7 +11,7 @@
   * Default allow all outbound traffic.
 
 * **Exam Tips:**
-  * Not able to explicity deny traffic.
+  * Not able to explicitly deny traffic.
   * Does not work on DNS names:
     * Logical resources
     * IPs

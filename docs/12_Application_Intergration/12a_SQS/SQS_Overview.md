@@ -4,9 +4,9 @@
 
 * **Exam Tips:**
   * Allows for distributed/decoupled application components.
-  * ASG can grow basedon queue size.
+  * ASG can grow based on queue size.
   * Lambda functions can replace the role of worker instances, polling and processing messages.
-  * Default visablity timeout =
+  * Default visibility timeout =
   * Message retention period =
   * Not designed for multiple consumers per queue.
     * Kinesis does allow multiple consumers.

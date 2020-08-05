@@ -7,7 +7,7 @@
 
 * **Exam Tips:**
   * When to use a VPN
-  * Know the archictecture.
+  * Know the architecture.
     * BGP required for dual vpn tunnels.
   * Can be done in minutes.
     * As opposed to direct-connect
@@ -29,4 +29,4 @@
   * Latency considerations - inconsistent, public internet
   * Hourly cost, GB out cost, data cap (on premises)
   * Can be used as a backup for Direct Connect.
-  * Can be used ontop of Direct Connect for security, providing encryption.
+  * Can be used on top of Direct Connect for security, providing encryption.

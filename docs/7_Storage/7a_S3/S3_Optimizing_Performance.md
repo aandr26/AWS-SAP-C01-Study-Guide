@@ -23,4 +23,4 @@
     * Remember, no true folders.
     * S3 allows a mix of 3500 write TPS and 5500 read TPS per partition
       * If you don't need to achieve these results, don't worry about object naming in the bucket.
-    * Prefixes determine the partioning of objects in a bucket.
+    * Prefixes determine the partitioning of objects in a bucket.

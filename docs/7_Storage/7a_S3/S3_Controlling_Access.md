@@ -9,7 +9,7 @@
 * **Exam Tips:**
   * Private by default
   * Tags and resource policies can work together to grant extensive permissions.
-  * Questions about object specfifc permissions and access via a URL, define an object level ACL.
+  * Questions about object specific permissions and access via a URL, define an object level ACL.
   * **Pre-Signed URLs:**
     * Uses the identity of the user who created the pre-signed URL.
     * When using a pre-signed url, the user does not need to have currently valid permissions to access the object.

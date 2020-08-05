@@ -10,7 +10,7 @@
 
 * **Exam Tips:**
   * **Snowball:**
-    * 50 TB or 80 TB per dvice.
+    * 50 TB or 80 TB per device.
     * Use when transferring more than 10 TB
     * Can chain together to get more capacity.
     * Faster than internet/Direct Connect/VPN

@@ -14,7 +14,17 @@
   * [Apps](https://docs.aws.amazon.com/opsworks/latest/userguide/workingapps.html)
 
 * **Exam Tips:**
+  * Pretty much only choose when you need Chef or Puppet.
+    * When you already have one
+    * Requirement to automate
+    * If Recipes, Cookbook or Manifests are mentioned.
   * Global service, but you can choose the region to deploy into.
+  * **Modes:**
+    * Puppet Enterprise - AWS Managed Puppet Master Server
+    * Chef Automate - AWS Managed Chef Servers
+    * OpsWorks - AWS Integrated Chef, No servers.
+  * **Recipes and Cookbooks:**
+    * Github
   * **Stacks:**
     * Top level construct
     * Type (Dev, Prod) or function (Finance, Management) of a system.
@@ -24,9 +34,8 @@
     * OpsWorks
     * ECS
     * RDS
-    * Layer is where recipies are applied.
+    * Layer is where recipes are applied.
   * **Instances:**
     * 24/7 - Base usage.
     * Time - Known periods of usage.
-    * Loadbased - Everything else.
-  
+    * Load based - Everything else.

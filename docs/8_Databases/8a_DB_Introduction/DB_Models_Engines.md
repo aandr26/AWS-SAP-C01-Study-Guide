@@ -12,7 +12,7 @@
     * Doesn't scale well.
     * Not suitable for dynamic data.
     * Favors data that is defined upfront and fixed.
-    * Uses ACID (Atomicity, Consistencty, Isolation, Durability)
+    * Uses ACID (Atomicity, Consistency, Isolation, Durability)
       * The tradeoff is in performance - it is slower.
     * Best for transactional, highly structured.
   * **NoSQL:**
@@ -29,7 +29,7 @@
     * **Column Based DB:**
       * Really fast queries.
       * Data warehouses
-      * Analyitics
+      * Analytics
       * Reporting
       * Think Redshift.
       * Not used for transactions!

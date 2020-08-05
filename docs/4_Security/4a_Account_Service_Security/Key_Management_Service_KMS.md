@@ -18,7 +18,7 @@
     * Logically the CMK doesn't leave the service, KMS, or the region.
 
 * **Exam Tips:**
-  * Role seperation:
+  * Role separation:
     * Don't have to give S3 users access to decrypt.
     * FIPS 140-2 compliant service? Use KMS as it supports up to level 2.
     * Can only be managed by AWS APIs.

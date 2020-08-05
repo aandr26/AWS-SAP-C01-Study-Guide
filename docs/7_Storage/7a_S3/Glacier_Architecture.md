@@ -16,8 +16,8 @@
   * Accounts can contain 1000 vaults per region.
   * Descriptions can only be added to an archive _when_ it is uploaded!
   * There are no user-defined metadata fields. Only unique ID plus optional description. See above for description restrictions.
-  * _Cannot_ be edited, only deleted and reuploaded.
-    * Recieves a new unique ID.
+  * _Cannot_ be edited, only deleted and re-uploaded.
+    * Receives a new unique ID.
   * Cannot see data within the archive.
   * Speeds:
 

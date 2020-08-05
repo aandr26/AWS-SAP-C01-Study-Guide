@@ -9,4 +9,4 @@
 * **Exam Tips:**
   * Use the Systems Manager Parameter Store.
   * Take advantage of automatic naming.
-  * Be aware of psuedo parameters.
+  * Be aware of pseudo parameters.

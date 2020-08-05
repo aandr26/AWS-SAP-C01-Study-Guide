@@ -21,7 +21,7 @@
     * Are highly-available.
     * Don't need DNS, they use route tables.
     * Can utilize policies, but not security groups.
-    * Can restrict resources using resorce policies.
+    * Can restrict resources using resource policies.
       * Only accept operations coming from a gateway endpoint. ie S3
     * Cannot be extended outside the VPC.
     * Regional.

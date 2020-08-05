@@ -6,7 +6,7 @@
   * [Termination Policies](https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-instance-termination.html)
 
 * **Exam Tips:**
-  * **Deployment Types - Image baking vs Bootstraping:**
+  * **Deployment Types - Image baking vs Bootstrapping:**
     * A flexible deployment of EC2? AMI baking is not the way to go.
     * Need to deploy something at a certain speed?
       * If using bootstrapping, additional processing time is added.

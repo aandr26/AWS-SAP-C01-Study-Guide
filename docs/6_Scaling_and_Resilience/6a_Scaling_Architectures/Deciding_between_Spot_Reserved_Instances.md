@@ -10,16 +10,16 @@
 * **Exam Tips:**
   * **Reserved:**
     * Don't used for variable
-    * For cost savigs
+    * For cost savings
     * Look for scenarios where you know you'll need the capacity.
     * Think webserver.
   * **On-Demand:**
     * Should fulfill most exam scenarios.
-    * Variable load where availablity is key.
+    * Variable load where availability is key.
   * **Spot:**
     * Shouldn't use for nominal load.
       * Price can actually exceed on-demand.
     * Think analytics.
-    * Any mention of inability to tolerate interuption or business critical workload, you should *not* use spot instances.
+    * Any mention of inability to tolerate interruption or business critical workload, you should *not* use spot instances.
     * Designed to fill in capacity loads.
     * Spot fleet is a collection of spot instance pools.

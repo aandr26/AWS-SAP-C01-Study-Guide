@@ -9,6 +9,6 @@
 
 * **Exam Tips:**
   * Shield Advanced:
-    * Gives you acces to DDoS reponse team.
+    * Gives you access to DDoS response team.
     * Cost protection.
     * Includes WAF.
