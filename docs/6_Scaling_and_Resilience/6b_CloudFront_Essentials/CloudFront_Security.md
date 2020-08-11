@@ -11,7 +11,16 @@
   * [Using field-level encryption](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/field-level-encryption.html)
 
 * **Exam Tips:**
-  * Can use with ACM, but the cert must be requested for the US East (N. Virginia) region.
+  * **SSL:**
+    * Supported by default
+    * Using CNAME:
+      * Verify ownership (optionally HTTPS) using a matching cert.
+      * Can use with ACM, but the cert must be requested for the US East (N. Virginia) region.
+      * Two SSL connections:
+        * Viewer => CloudFront and CloudFront => Origin
+        * _Both need valid public certs and intermediate certs._
+      * SNI mode is free, doesn't support old, old browsers.
+      * Can pay for a dedicated IP per distribution.
   * Be aware of the security requirements for SSL:
     * Not a single connection:
       * Viewer connection to edge location.
@@ -19,6 +28,7 @@
         * Must use publicly trusted and valid cert.
       * **Origin:**
         * If S3, automatic, if ELB, can use ACM.
+          * ACM is a regional service, and must be provisioned in US-East-1 region.
         * If using on-premises server, Must use publicly trusted and valid cert.
     * Does nothing by default to restrict access to an S3 DNS endpoint.
       * Can restricted use an Origin Access Identity (OAI)
@@ -54,7 +64,7 @@
       * That account is added as a trusted signer.
       * Signed URLs:
         * URL provides access to one object
-        * LEgacy RTMP distributions an't use cookies
+        * Legacy RTMP distributions an't use cookies
         * User URLs if your client doesn't support coolies
         * Cookie provides access to groups of objects
         * User for groups of files/all files of a type

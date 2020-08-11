@@ -11,9 +11,13 @@
   * [Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB](https://www.youtube.com/watch?v=HaEPXoXVf2k)
 
 * **Exam Tips:**
+  * NoSQL = preference DynamoDB in the exam.
+  * Key/Value preference DynamoDB in the exam.
+  * If question references relational data or mentions SQL, generally not DynamoDB.
+  * Bill based RCU, WCU, storage and features.
   * Does not exist in a VPC, in public zone.
-  * A region failure would be needed to impact DynamoDB
-  * Replication between multiple nodes in multiple AZs
+  * A region failure would be needed to impact DynamoDB.
+  * Replication between multiple nodes in multiple AZs.
   * True serverless DB as a Service.
   * Two billing items to remember:
     * Total amount of data stored by the product, all tables, all regions.
@@ -25,6 +29,31 @@
   * In the exam preference a query operation.
     * Query can only ever query a single partition key.
   * A scan can check ranges.
+  * **Table:**
+    * A table is a grouping of items with the same primary key
+      * Simple (partition) or composite (partition and sort) primary key.
+    * Each item must have a unique value for PK (primary key) and SK (sort key).
+    * Can have none, all, mixture or different attributes (DDB has no rigid attribute schema).
+    * Capacity (think speed) is set on a table.
+    * Writes uses write capacity unit (WCU):
+      * 1 WCU = 1KB per second.
+    * Reads uses read capacity units (RCU):
+      * 1 RCU = 4KB per second.
+    * Max item size of 400KB
+  * **Backups:**
+    * **On-Demand:**
+      * Full copy of table
+        * Retained until removed.
+        * Restore
+          * Same or cross region
+          * With or without indexes
+          * Adjust encryption settings.
+    * **Point-in-time Recovery:**
+      * Enabled table by table
+        * Not enabled by default
+        * 1 second granularity
+        * Continuous record of changes allows replay to any point in the window.
+        * 35 day recovery window.
   * **Key Structure:**
     * Performance:
       * Over 10 GB = Partition is added.
@@ -36,7 +65,7 @@
   * Reserved capacity can be purchased.
   **Advanced Info:**
     * Performance:
-    * Provisioned:
+    * **Provisioned:**
       * Requires capacity planning.
       * More cost effective if you can determine the requirements.
     * **On-demand:**

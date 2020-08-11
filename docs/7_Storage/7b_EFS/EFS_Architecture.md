@@ -11,6 +11,8 @@
 * **Exam Tips:**
   * Questions about shared file systems, mountable - specifically Linux?
     * EFS
+  * By default it is private, via mount targets inside a VPC.
+  * Access via Lambda.
   * Highly scalable, highly available.
   * Can POSIX permissions.
   * Supports encryption at rest.
