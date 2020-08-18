@@ -4,7 +4,7 @@
 
 This guide serves to help the user pass the AWS Certified Solutions Architect - Professional exam.
 
-It generally follows the Linux Academy [AWS Certified Solutions Architect - Professional](https://linuxacademy.com/course/aws-certified-solutions-architect-professional-2018/) course, but includes some additional content that will supplement.
+It generally follows the great course by Adrian Cantrill [AWS Certified Solutions Architect - Professional](https://learn.cantrill.io/p/aws-certified-solutions-architect-professional) course, but includes some additional content that will supplement.
 
 --------------------------------
 
@@ -68,6 +68,7 @@ It generally follows the Linux Academy [AWS Certified Solutions Architect - Prof
   * [CloudHSM](./docs/4_Security/4a_Account_Service_Security/CloudHSM.md)
   * [Certificate Manager (ACM)](./docs/4_Security/4a_Account_Service_Security/Certificate_Manager_ACM.md)
   * [Directory Service](./docs/4_Security/4a_Account_Service_Security/Directory_Service.md)
+  * [AWS Secrets Manager](./docs/4_Security/4a_Account_Service_Security/Secrets_Manager.md)
 
 * **Network Security:**
   * [WAF and Shield](./docs/4_Security/4b_Network_Security/WAF_Shield.md)
@@ -278,24 +279,6 @@ Additional links can be found in the content specific links above.
 * **Linux Academy:**
   * [The Orion Papers Pro](https://interactive.linuxacademy.com/diagrams/OrionPapersPro.html)
 
-  * **Labs that Linux Academy Recommends**
-    * [Recap: Provisioning an EC2 Instance](https://linuxacademy.com/cp/livelabs/view/id/161/module/119)
-    * [EC2 Backup Solutions with AMIs and Snapshots](https://linuxacademy.com/cp/livelabs/view/id/188/module/119)
-    * [Accessing an Instance's User Data and Metadata](https://linuxacademy.com/cp/livelabs/view/id/162/module/119)
-    * [Setting up an ELB and Auto Scaling Group](https://linuxacademy.com/cp/livelabs/view/id/165/module/119)
-    * [Building a More Secure Application with a Bastion Host and NAT Gateway](https://linuxacademy.com/cp/livelabs/view/id/163/module/119)
-    * [Using S3 for Static Web Hosting](https://linuxacademy.com/cp/livelabs/view/id/173/module/119)
-    * [Configuring Backup and Archiving Solution in S3](https://linuxacademy.com/cp/livelabs/view/id/172/module/119)
-    * [Configuring Route 53 DNS Records Sets](https://linuxacademy.com/cp/livelabs/view/id/166/module/119)
-    * [Configuring a CloudFront Distribution](https://linuxacademy.com/cp/livelabs/view/id/167/module/119)
-    * [VPC Peering](https://linuxacademy.com/cp/livelabs/view/id/182/module/119)
-    * [RDS Lab](https://linuxacademy.com/cp/livelabs/view/id/175/module/119)
-    * [Create and Use an SNS Topic with S3 Events](https://linuxacademy.com/cp/livelabs/view/id/174/module/119)
-    * [CloudWatch Sandbox](https://linuxacademy.com/cp/livelabs/view/id/178/module/119)
-    * [CloudTrail Sandbox](https://linuxacademy.com/cp/livelabs/view/id/179/module/119)
-    * [CloudFormation Lab](https://linuxacademy.com/cp/livelabs/view/id/180/module/119)
-    * [Elastic Beanstalk Lab](https://linuxacademy.com/cp/livelabs/view/id/181/module/119)
-
 * **Pluralsight:**
   * [AWS Certified Solutions Architect - Professional Path](https://app.pluralsight.com/paths/certificate/aws-certified-solutions-architect-professional)
 
@@ -310,7 +293,7 @@ Additional links can be found in the content specific links above.
 
 ## Planned Approach
 
-* [ ] **Watch Linux Academy Course Through**
+* [x] **Watch Linux Academy Course Through**
 * [ ] **Work Through Adrian Cantrill's SA Pro Course (If Available)**
 * [ ] **Watch AWS Digital Library:**
   * [ ] Exam Readiness: AWS Certified Solutions Architect – Professional

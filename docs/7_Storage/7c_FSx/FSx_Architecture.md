@@ -11,3 +11,5 @@
 * **Exam Tips:**
   * By default not highly available.
   * Provides either SMB or Lustre.
+  * Look for VSS, SMB, DFS = fSX windows
+  * Windows permission model

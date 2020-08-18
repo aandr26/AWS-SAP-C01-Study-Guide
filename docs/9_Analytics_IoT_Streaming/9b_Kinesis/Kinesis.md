@@ -10,14 +10,17 @@
   * [Example Applications](https://docs.aws.amazon.com/kinesisanalytics/latest/dev/examples.html)
 
 * **Exam Tips:**
+  * Designed for huge scale ingestion.
+  * Multiple consumers, 24 hour rolling window.
+  * Data ingestion, analytics. monitoring, app clicks.
   * **Producers:**
-    * Anything which puts data into Kinesis
+    * Anything which puts data into Kinesis.
       * Android/iPhone
       * Software
       * EC2 instance(s)
   * **Consumers:**
     * Consumes and uses the records from a Kinesis stream.
-      * EC2 instance(s) running the Kinesis Consumer Library (KCL)
+      * EC2 instance(s) running the Kinesis Consumer Library (KCL).
       * Lambda functions
       * Kinesis Firehose
   * Producers -> Stream -> Consumers
@@ -30,10 +33,21 @@
       * Can configure shard level metrics at extra cost.
       * Private only vpc? Need to us a Kinesis endpoint to access public resources.
   * **Data Analytics:**
-    * Allows SQL queries against real time data streams.
+    * Use cases:
+      * Time-series analytics
+      * Realtime dashboards
+      * Realtime metrics
+      * Complex manipulation of data in realtime.
+    * Allows SQL queries against realtime data streams.
       * Create dashboards or alerts.
+    * Destinations:
+      * S3
+      * Redshift
+      * ElasticSearch
+      * Splunk
+      * Firehose (makes it near realtime)
     * Understand:
-      * Reference table
-      * In application input and output
+      * Reference table.
+      * In application input and output.
       * Different products that can be used as inputs.
       * You can define an error stream.

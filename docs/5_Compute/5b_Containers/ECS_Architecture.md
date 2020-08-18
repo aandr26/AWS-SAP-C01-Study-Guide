@@ -10,3 +10,22 @@
 * **Exam Tips:**
   * Windows container host:
     * NAT is only supported networking mode.
+  * Container definition:
+    * where a container is
+    * which port to use
+  * Task definition:
+    * Resources
+    * Networking
+    * Instance type - EC2 vs Fargate
+    * The task role, what it does.
+      * IAM Role
+  * Service:
+    * How many copies
+    * HA
+    * Restarts
+  * **Use Case:**
+    * If you use containers = ECS
+    * Large workload - price conscious = EC2 Mode
+    * Large workload - overhead conscious = Fargate
+    * Small / Burst workloads = Fargate
+    * Batch / Periodic workloads = Fargate

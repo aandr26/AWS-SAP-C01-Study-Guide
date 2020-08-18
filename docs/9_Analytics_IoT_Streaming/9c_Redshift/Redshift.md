@@ -8,6 +8,17 @@
 
 * **Exam Tips:**
   * Can support up to 2 PB of data.
+  * OLAP (Column based) not OLTP (row/transaction).
+  * Pay as you go.
+  * **Redshift Architecture:**
+    * Server based (not serverless).
+    * One AZ in a VPC - network cost/performance.
+    * Leader node - Query input, planning and aggregation.
+    * Compute node - performing queries of data.
+    * Redshift enhanced VPC routing - VPC networking.
+    * Automatic snapshots to S3 (8 hours or 5GB) with retention.
+      * Default retention of 1 day, with up to 35 days.
+    * Manual snapshots to S3 managed by administrator.
   * **Resizing:**
     * Classic resize:
       * Change both node type and number of nodes.
