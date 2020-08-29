@@ -32,8 +32,16 @@
       * Terms 1-3 yrs
   * New database can be created using a snapshot.
   * **Read Replicas:**
+    * Asynchronous = Read-replicas.
+    * Cannot be used for write operations.
     * Can be deployed to another AZ, or even another region.
     * Good for read intensive applications.
     * Can be addressed directly as opposed to a slave node.
     * Is a completely DB instance
     * Can have a different DB version.
+    * Used globally.
+    * **Performance:**
+      * 5x direct read-replicas per DB instance.
+      * Each providing an additional instance of read performance.
+      * Read-replicas can have read-replicas, but lag starts to be a problem.
+      * Global performance improvements.

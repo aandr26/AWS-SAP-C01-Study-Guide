@@ -17,6 +17,8 @@
     * If a question mentions Google, Facebook, Web, etc, SAML 2.0 is not the correct option.
     * Assumes a IAM Role and used AWS Temporary Credentials which have 12 hour validity.
   * **AWS SSO:**
+    * Flexible Identity source.
+    * Has a built-in identity store.
     * On-Prem AD (Two way trust or AD connector)
     * Preferred by AWS to SAML 2.0
     * Work place vs customer identities:
@@ -24,4 +26,6 @@
       * Workplace - AWS SSO
     * Requires an Organization.
   * **Cognito:**
-    * For customers
+    * For customers.
+    * Cognito handles the exchange of Cognito credentials with AWS credentials.
+      * Generated via a role assumption.

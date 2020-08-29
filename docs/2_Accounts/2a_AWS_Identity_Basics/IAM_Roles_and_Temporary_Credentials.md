@@ -25,9 +25,9 @@
   * **STS:**
     * Generates a temporary credential ```sts:AssumeRole*```
     * They expire and don't belong to the identity.
-    * Limited access
-    * Used to access AWS resources
-    * Request by an identity (AWS or External)
+    * Limited access.
+    * Used to access AWS resources.
+    * Request by an identity (AWS or External).
     * **A credential leak:**
       * Temp credentials cannot be invalidated on-demand - and so a specific technique needs to be used to handle credential leaks.
       * Changing the trust policy has _no_ impact on existing credentials, only on future attempts to get those credentials.
