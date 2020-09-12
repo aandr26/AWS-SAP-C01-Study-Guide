@@ -8,17 +8,26 @@
 * **Notes:**
   * **Cluster placement group:**
     * Single AZ
+      * Cannot not span AZs
+      * Can span peered VPC, but impacts performance.
       * Maximum possible performance between EC2 instances.
       * Benefits:
-        * Highest levels of throughput
-        * Lowest levels of latency
+        * Highest levels of throughput.
+        * Lowest levels of latency.
       * Capacity gets allocated in advanced.
+      * Use same type and launch time of EC2 instances.
     * **Partition placement group:**
       * EC2 attempts to distribute instances equally across partitions.
       * Large scale, replicated workloads where resilience is need.
+      * 7 instances per AZ (HARD LIMIT).
+      * Great for topology aware applications:
+        * HDFS, HBase, Cassandra.
     * **Spread placement group:**
       * Small set of infrastructure where you need highest level of availability.
-      * Single AZ or multi AZ
+        * Each instances runes from a different rack.
+        * Each rack has its own network and power source.
+      * Single AZ or multi AZ.
+      * 7 instances per AZ (HARD LIMIT)
 
 * **Exam Tips:**
   * **Cluster placement group:**

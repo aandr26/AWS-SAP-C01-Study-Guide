@@ -50,5 +50,7 @@
   * **Transit VIFS:**
     * Public VIF can access all AWS public regions
       * VLAN and BGP session.
-    * Private VIF can only access VPC's in the same AWS region via VGWs
+    * Private VIF can only access VPC's in the same AWS region via VGWs.
+  * **DX Gateway:**
+    * 
 ![Direct Connect Architectures](./../../../Images/DX_Architectures.png)

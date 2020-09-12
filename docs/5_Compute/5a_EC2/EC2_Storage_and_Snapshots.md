@@ -30,7 +30,9 @@
       * Provisioned IOPS SSD (io1)
         * IOPS can scale separately of the volume size.
     * HDD:
+      * Cannot be used as a boot volume.
       * Throughput Optimized (st1)
+        * Frequently accessed.
       * Cold HDD (sc1)
     * Know the ideal patterns and anti-patterns for EBS storage:
       * Ideal
@@ -45,3 +47,11 @@
         * High Durability (99.5 - 99.9+)
     * Does not provide storage sharing, use EFS instead.
     * **Snapshots:**
+    * **Question Tips:**
+      * Cheap = ST1 or SC1
+      * Throughput / streaming = ST1
+      * Boot = NOT ST1 or SC1
+      * GP2 = up to 16,000 IOPS
+      * IO1/2 = up to 64,000 IOPS
+      * RAID0 + EBS = up to 160,000 IOPS
+      * More than 160,000 IOPS = Instance Store
