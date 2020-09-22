@@ -21,3 +21,10 @@
     * AVRO
     * ORC
     * PARQUET
+  * Use cases:
+    * Queries where loading/transformation isn't desired.
+    * Occasional / Ad-hoc queries on data in S3.
+    * Serverless querying scenarios - cost conscious
+    * Querying AWS logs - VPC flow logs, CloudTrail, ELB logs, cost reports.
+    * AWS Glue Data Catalog and web server logs.
+    * Using Athena Federated Query you can use other data sources.

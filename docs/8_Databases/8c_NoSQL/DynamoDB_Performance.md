@@ -32,6 +32,7 @@
     * 3). The leader node replicates data to other nodes, typically finishing within a few milliseconds.
     * 4). Eventually consistent reads check 1/3 nodes.
     * 5). Strongly consistent reads connect to the leader node to the the most up-to-date copy of data.
+      * Strongly consistent reads are not supported on global secondary indexes.
   * **WCU Calculation:**
     * If you need to store 10 items per second 2.5KB average size per item. (Look out for exam questions that say minutes instead of seconds.)
       * Calculate WCU per item by rounding up (item size / 1 KB) = 3

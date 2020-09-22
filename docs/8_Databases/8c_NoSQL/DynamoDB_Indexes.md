@@ -15,8 +15,9 @@
   * **Global Secondary Indexes:**
     * Can be created at any time.
     * Limit of 20 per base table.
-    * Alternative PK and SK
-    * GSIs have their own RCU and WCU allocations
+    * Alternative PK and SK.
+    * Does not support strongly consistent reads.
+    * GSIs have their own RCU and WCU allocations.
     * Attributes - ALL, KEYS_ONLY, and INCLUDE
     * Generally sparse as only items that have values in the new PK and optional SK are added.
   * Considerations:
