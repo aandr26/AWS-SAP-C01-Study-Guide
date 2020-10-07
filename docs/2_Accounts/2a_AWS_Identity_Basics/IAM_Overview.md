@@ -21,6 +21,6 @@ Lets you manage identities and allocate the permissions required for different r
 
 * **Exam tips:**
   * Familiarize yourself with the Credential Report.
-  * Watch for gotcha questions about groups
+  * Watch for gotcha questions about groups:
     * logging in as a group - you don't.
   * Expect a question on policy variables.

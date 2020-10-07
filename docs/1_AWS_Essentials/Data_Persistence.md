@@ -6,7 +6,7 @@
   * **Ephemeral**
     * Data this is local to a resource (usually) and lost when the resource is powered off.
       * Instance Store Volume
-        * Attached to host in an AZ, failure of either means failure of the volume.
+        * Attached to host in an AZ, failure of either host or AZ means failure of the volume.
       * Amazon ElastiCache
     * Very high throughput.
     * Data is *lost* when the resource is powered down.
