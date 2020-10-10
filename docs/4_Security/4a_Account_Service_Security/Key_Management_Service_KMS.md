@@ -22,6 +22,6 @@
     * Don't have to give S3 users access to decrypt.
     * FIPS 140-2 compliant service? Use KMS as it supports up to level 2.
     * Can only be managed by AWS APIs.
-    * CMKs can only be used fro up to 4KB of data.
-    * CMKs support rotation
-    * CMKs are more configurable
+    * CMKs can only be used for up to 4KB of data.
+    * CMKs support rotation.
+    * CMKs are more configurable.

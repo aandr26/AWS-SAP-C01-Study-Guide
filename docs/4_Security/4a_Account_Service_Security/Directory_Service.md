@@ -21,7 +21,7 @@
     * Native schema extensions? Microsoft AD mode.
   * **Simple AD:**
   * **AD Connector:**
-    * A pair of directory endpoints running in AWS (ENIs in a VPC)
+    * A pair of directory endpoints running in AWS (ENIs in a VPC).
     * Supports directory aware AWS products.
     * Requires a working network connection.
     * AD connector is good for proof-of-concept or fast deployment.

@@ -12,7 +12,7 @@
 
 * **Exam Tips:**
   * **SSL:**
-    * Supported by default
+    * Supported by default.
     * Using CNAME:
       * Verify ownership (optionally HTTPS) using a matching cert.
       * Can use with ACM, but the cert must be requested for the US East (N. Virginia) region.
@@ -50,25 +50,25 @@
         * Can be use to restrict based on almost anything (licensing, user login status, user profile fields and much more)
         * Anything beyond the country.
     * **Origin Access Identity (OAI):**
-      * An OAI is a type of identity
-      * Can be associated with CloudFront Distributions
-      * CloudFront 'becomes' that OAI
-      * That OAI can be used in S3 bucket policies
+      * An OAI is a type of identity.
+      * Can be associated with CloudFront Distributions.
+      * CloudFront 'becomes' that OAI.
+      * That OAI can be used in S3 bucket policies.
       * Deny all but one or more OAIs.
     * **Private Distributions:**
-      * Public - open access to objects
-      * Private - requests require signed cookie or URL
+      * Public - open access to objects.
+      * Private - requests require signed cookie or URL.
       * 1 behavior - Whole distribution public or private.
-      * Multiple behaviors - each is public or private
-      * A CloudFront Key is created by an account root user
+      * Multiple behaviors - each is public or private.
+      * A CloudFront Key is created by an account root user.
       * That account is added as a trusted signer.
       * Signed URLs:
-        * URL provides access to one object
-        * Legacy RTMP distributions an't use cookies
-        * User URLs if your client doesn't support coolies
-        * Cookie provides access to groups of objects
-        * User for groups of files/all files of a type
-        * Or it maintaining URLs is important
+        * URL provides access to one object.
+        * Legacy RTMP distributions can't use cookies.
+        * Use URLs if your client doesn't support cookies.
+        * Cookie provides access to groups of objects.
+        * Use for groups of files/all files of a type.
+        * Or if maintaining URLs is important.
 
 Example bucket policy using OAI
 

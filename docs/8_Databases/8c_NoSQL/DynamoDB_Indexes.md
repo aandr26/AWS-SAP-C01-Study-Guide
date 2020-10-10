@@ -3,7 +3,7 @@
 * [Return to table of contents](../../../README.md)
 
 * **Exam Tips:**
-  * Indexes are alternative views on table data
+  * Indexes are alternative views on table data.
   * Different SK (Local Secondary Indexes) or different PK and SK (Global Secondary Indexes).
   * Some or all attributes (projection).
   * **Local Secondary Indexes (LSI):**

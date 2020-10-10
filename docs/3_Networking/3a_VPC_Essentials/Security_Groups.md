@@ -13,9 +13,10 @@
 * **Exam Tips:**
   * Not able to explicitly deny traffic.
   * Does not work on DNS names:
-    * Logical resources
+  * Works with:
+    * Logical resources.
     * IPs
-    * CIDR ranges
+    * CIDR ranges.
   * Unless explicitly allowed, there is a hidden implicit deny.
   * Any other logical resources can be referenced.
   * Able to add functional, role based security.

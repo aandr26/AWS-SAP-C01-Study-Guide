@@ -5,7 +5,7 @@
 * **Exam Tips:**
   * First snapshot is full.
     * Following snaps are incremental.
-  * Automatic backups
+  * Automatic backups:
     * 5 minute transaction logs.
     * Can set retention period between 0 - 35 days.
     * Saved in AWS managed S3.

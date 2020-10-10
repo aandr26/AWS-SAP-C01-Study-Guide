@@ -9,7 +9,7 @@
 
 * **Exam Tips:**
   * **Reserved:**
-    * Don't used for variable
+    * Don't used for variable.
     * For cost savings
     * Look for scenarios where you know you'll need the capacity.
     * Think webserver.

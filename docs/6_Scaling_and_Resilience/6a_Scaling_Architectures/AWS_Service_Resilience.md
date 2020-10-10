@@ -4,7 +4,7 @@
 
 * **Exam Tips:**
   * **IAM:**
-    * Globally resilient
+    * Globally resilient.
   * **S3:**
     * Regional level.
     * Replicated across AZs in region.
@@ -15,7 +15,7 @@
   * **EC2/EBS:**
     * EC2 limited to a single AZ.
       * If AZ fails, probably lose the instance.
-    * EBS in AZ.
+    * EBS in AZ:
       * Some replication within same AZ.
       * Snapshots use S3 as backend, and replicated across all AZs in region.
       * Can also copy a snapshot to another region.
@@ -30,12 +30,12 @@
     * VPC is regional
       * Subnets cannot span AZs.
         * Neither can the services deployed inside a single subnet.
-        * put one subnet per AZ.
+        * Put one subnet per AZ.
   * **NAT GW:**
     * Not resilient by default.
-    * Placed in a subnet., thus they are AZ bound.
+    * Placed in a subnet, thus they are AZ bound.
     * Can tolerate hardware failures.
   * **VPN:**
-    * VPGW
+    * VPGW:
       * Publicly available
-      * In multiple AZs (Think dual tunnel)
+      * In multiple AZs (Think dual tunnel).

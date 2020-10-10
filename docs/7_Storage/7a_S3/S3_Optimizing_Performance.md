@@ -19,8 +19,8 @@
 
   \* Multithreading helps maximize the bandwidth used to upload and decreases the impact to the network by reducing the size of the restart domains, it breaks the upload into smaller parts. It is akin to windowing.
 
-  * **Partitions and Object Naming:**
-    * Remember, no true folders.
-    * S3 allows a mix of 3500 write TPS and 5500 read TPS per partition
-      * If you don't need to achieve these results, don't worry about object naming in the bucket.
-    * Prefixes determine the partitioning of objects in a bucket.
+* **Partitions and Object Naming:**
+  * Remember, no true folders.
+  * S3 allows a mix of 3500 write TPS and 5500 read TPS per partition.
+  * If you don't need to achieve these results, don't worry about object naming in the bucket.
+  * Prefixes determine the partitioning of objects in a bucket.

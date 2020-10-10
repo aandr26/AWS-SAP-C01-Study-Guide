@@ -11,12 +11,12 @@
     * Default
     * Pay for what you consume.
     * Per second billing.
-    * no capacity reservation
-    * no discount.
-    * Use:
-      * Short term workloads
-      * Unknown workloads
-      * Apps which cannot be interrupted
+    * No capacity reservation.
+    * No discount.
+    * Usage:
+      * Short term workloads.
+      * Unknown workloads.
+      * Apps which cannot be interrupted.
   * **2. Reserved**
     * 12 or 36-month term
       * All Upfront (best cost advantages), Partial Upfront, and No Upfront.

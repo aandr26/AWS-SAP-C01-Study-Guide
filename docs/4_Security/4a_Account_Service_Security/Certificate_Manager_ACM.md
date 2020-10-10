@@ -7,7 +7,7 @@
   * [ACM FAQs](https://aws.amazon.com/certificate-manager/faqs/)
 
 * **Exam Tips:**
-  * Certs cannot leave the region they are generated or imported in.
+  * Certs CANNOT leave the region they are generated or imported in.
   * Need to be aware of the architect of ACM, not implementation.
   * Natively integrates.
   * Cannot use on EC2 instances.

@@ -9,7 +9,7 @@
 * **Exam Tips:**
   * If asked about how to restrict traffic to an individual container, choose ECS network only mode.
   * **Fargate:**
-    * Secure tasks only
+    * Secure tasks only.
   * **Instance type:**
     * Hosts
     * Tasks

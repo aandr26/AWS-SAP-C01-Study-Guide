@@ -9,12 +9,12 @@
   * **Provisioned Model:**
     * RCU and WCU set on a per table instance.
     * Every operation consumes at least 1 RCU/WCU(*)
-  * 1 RCU is 1 x 4KB read operation per second.
-  * 1 WCU is 1 x 1KB write operation per second.
-  * Every table has a RCU and WCU burst pool (300 seconds)
+    * 1 RCU is 1 x 4KB read operation per second.
+    * 1 WCU is 1 x 1KB write operation per second.
+    * Every table has a RCU and WCU burst pool (300 seconds).
   * **Operations:**
     * **Query:**
-      * Most efficient operation in DynamoDB
+      * Most efficient operation in DynamoDB.
       * Query accepts a single PK value and optionally a SK or range.
       * Capacity consumed is the size of all returned items. Further filtering discards data - capacity is still consumed.
       * Can only query on a PK or PK and SK.

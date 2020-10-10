@@ -28,14 +28,14 @@
     * SSD Based:
       * General Purpose (gp2)
       * Provisioned IOPS SSD (io1)
-        * IOPS can scale separately of the volume size.
+        * IOPS can scale independent of the volume size.
     * HDD:
       * Cannot be used as a boot volume.
       * Throughput Optimized (st1)
         * Frequently accessed.
       * Cold HDD (sc1)
     * Know the ideal patterns and anti-patterns for EBS storage:
-      * Ideal
+      * Ideal:
         * Persistence
         * Durability
         * Elasticity

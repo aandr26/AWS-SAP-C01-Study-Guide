@@ -12,10 +12,10 @@
   * ACM has to be provisioned in US-East-1 for global services like CloudFront.
   * Cannot use self signed certificates.
   * **Behaviors:**
-    * Price class
-    * AWS WAF web ACL
-    * Alternate Domain Names (CNAMEs)
-      * Custom domain name = custom cert
+    * Price class.
+    * AWS WAF web ACL.
+    * Alternate Domain Names (CNAMEs).
+      * Custom domain name = custom cert.
     * Viewer protocol policy:
       * HTTP and HTTPS or mixture of both or one or the other.
     * Caching controls.  

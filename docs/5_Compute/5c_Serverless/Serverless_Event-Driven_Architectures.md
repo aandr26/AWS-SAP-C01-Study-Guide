@@ -10,4 +10,4 @@
   * Time limit for Lambda functions.
   * Keep them simple.
   * Questions on how to increase efficacy:
-    * Understand event driven architecture benefits
+    * Understand event driven architecture benefits.

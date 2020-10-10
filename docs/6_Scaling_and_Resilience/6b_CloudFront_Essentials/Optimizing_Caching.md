@@ -6,12 +6,12 @@
   * [Configuring caching](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/ConfiguringCaching.html)
 
 * **Exam Tips:**
-  * Cache Hit = Matching object, delivered from cache
+  * Cache Hit = Matching object, delivered from cache.
   * Cache Miss = Matching object not cached.
-  * Maximize the cache hit ratio
+  * Maximize the cache hit ratio.
   * ACM has to be provisioned in US-East-1 for global services like CloudFront.
-  * Forward what the application needs
-  * Cache based on what can change the objects
+  * Forward what the application needs.
+  * Cache based on what can change the objects.S
   * The more things are involved in caching the less efficient.
   * Cannot use self signed certificates.
   * Can change caching behavior based on:

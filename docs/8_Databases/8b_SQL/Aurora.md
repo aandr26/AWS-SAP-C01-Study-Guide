@@ -13,7 +13,7 @@
       * Used to allow in-place rewinds to a previous point in time.
     * Restores create a new cluster.
     * Fast clones make a new database much faster than copying all the data - copy-on-write.
-  * A single primary instance + 0 or more replicas
+  * A single primary instance + 0 or more replicas.
   * Custom designed by AWS:
     * MySQL and PostgreSQL compatibility
     * 5x performance of MySQL

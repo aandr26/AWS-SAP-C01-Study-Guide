@@ -10,6 +10,6 @@
   * The MAIN RT is the implicit and default route table for subnets.
   * Priority of Routes:
     * (1.) Longest prefix wins
-      * More specific routes always win
+      * More specific routes always win.
     * (2.) Static routes
     * (3.) Propagated routes

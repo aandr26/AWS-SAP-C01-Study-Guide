@@ -17,4 +17,4 @@
     * CWAgent.
     * Route 53 Logging:
       * Only works for public hosted zones.
-    * S3 Logging:
+    * S3 Logging

@@ -18,7 +18,7 @@
   * **NoSQL:**
     * **Key Value:**
       * No structure.
-        * DynamoDB.
+        * DynamoDB
         * Redis
       * Super fast queries and great scalability.
       * Great for WebApps
@@ -31,7 +31,7 @@
       * Data warehouses
       * Analytics
       * Reporting
-      * Think Redshift.
+      * Think Redshift
       * Not used for transactions!
     * **Graph DB:**
       * Designed for dynamic relationships

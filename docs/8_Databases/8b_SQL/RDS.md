@@ -17,7 +17,7 @@
     * **Automatic backups:**
       * For true Point-in-Time recovery.
       * It is done using transaction logs in automatic backups.
-    * Snapshots
+    * Snapshots.
   * **Replication:**
     * Replication is between master (primary) and slave (standby) node.
       * Failure of primary and standby AZs would impact service.

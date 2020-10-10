@@ -17,7 +17,7 @@
     * Go
     * C#
     * Custom runtimes such as Rust are possible with Lambda Layers.
-  * You directly control the memory allocated for Lambda functions wheraes vCPU is allocated indirectly.
+  * You directly control the memory allocated for Lambda functions whereas vCPU is allocated indirectly.
   * Function timeout of 900s (15 minutes).
     * Anything longer and you cannot use Lambda directly.
 

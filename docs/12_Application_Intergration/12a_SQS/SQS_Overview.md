@@ -7,7 +7,7 @@
   * Messages up to 256KB in size - link to large data.
   * Received messages are hidden (VisibilityTimeout)
     * The messages either reappear (retry) or are explicitly deleted.
-  * Dead-Letter queues can be used fro problem messages.
+  * Dead-Letter queues can be used for problem messages.
   * Allows for distributed/decoupled application components.
   * ASG can grow based on queue size.
   * Lambda functions can replace the role of worker instances, polling and processing messages.

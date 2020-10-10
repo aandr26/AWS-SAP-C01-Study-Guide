@@ -10,4 +10,4 @@
     * Backup and Restore
     * Pilot light
     * Warm standby
-  * CloudFormation can be used to do this
+  * CloudFormation can be used to do this.

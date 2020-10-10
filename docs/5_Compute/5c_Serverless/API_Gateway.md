@@ -28,7 +28,7 @@
         * 403 Access denied - Authorizer denies
         * 429 API gateway can throttle - You've exceeded your that amount.
       * 5xx server error - Valid request, backend issue.
-        * 502 Bad gateway exception - bad output returned by lambda.
+        * 502 Bad gateway exception - bad output returned by Lambda.
         * 503 Service unavailable - backing endpoint offline - could be major service issue.
         * 504 Integration failure/timeout - 29s limit.
     * **Caching:**

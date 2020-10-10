@@ -26,7 +26,7 @@
   * What isn't logged:
     * DHCP.
     * AWS DNS.
-    * Meteadata.
+    * Metadata.
     * License Activation Requests.
   * Destinations:
     * CWLogs.

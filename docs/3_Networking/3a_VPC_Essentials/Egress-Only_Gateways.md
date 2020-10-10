@@ -1,4 +1,4 @@
-# Egress-Only Gateways
+# Egress-Only Internet Gateways
 
 * [Return to table of contents](../../../README.md)
 
@@ -8,6 +8,6 @@
 
 * **Exam Tips:**
   * With IPv6 all subnets are essentially public.
-  * Known when to integrate an EGW:
+  * Known when to integrate an EIGW:
     * When wanting to allow outbound only IPv6 traffic.
     * Not used for IPv4, that would be a NAT Gateway.

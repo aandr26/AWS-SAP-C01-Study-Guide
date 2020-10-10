@@ -15,5 +15,5 @@
   * **Use Cases:**
     * For scenarios where a messaging system is already developed and needs to be moved to the cloud.
     * Default to SNS or SQS for most new implementations.
-    * SNS or SQS if AWS integration is required (logging, permissions, encryption, service integration.)
+    * SNS or SQS if AWS integration is required (logging, permissions, encryption, service integration).
     * Used Amazon MQ if you need to use JMI API, AMQP, MQTT, OpenWire or STOMP.

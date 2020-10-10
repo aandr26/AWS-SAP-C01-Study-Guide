@@ -6,7 +6,7 @@
   * Scans EC2 instances and the instance OS.
   * Vulnerabilities and deviations against best practice.
   * Length:
-    * 15mins
+    * 15 mins
     * 1,8,12 hour
     * 1 day
   * Provides a report of findings ordered by priority.

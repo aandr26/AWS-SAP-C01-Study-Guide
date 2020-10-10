@@ -7,7 +7,7 @@
 
 * **Exam Tips:**
   * Behind the scenes it uses Hardware Security Module (HSM)
-    * A true "single tenant" HSM
+    * A true "single tenant" HSM.
     * AWS provisioned but fully customer managed.
   * Be mindful of requirements for, CloudHSM supports them:
     * If the solution requires these services, you cannot use KMS!

@@ -7,8 +7,8 @@
 
 * **Notes:**
   * **Cluster placement group:**
-    * Single AZ
-      * Cannot not span AZs
+    * Single AZ:
+      * Cannot not span AZs.
       * Can span peered VPC, but impacts performance.
       * Maximum possible performance between EC2 instances.
       * Benefits:

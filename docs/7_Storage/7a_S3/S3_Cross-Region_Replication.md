@@ -3,7 +3,7 @@
 * [Return to table of contents](../../../README.md)
 
 * **Exam Tips:**
-  * Default is to replicated un-encrypted.
+  * Default is to replicate un-encrypted.
     * Supports SS3-S3 by default and SSE-KMS.
     * Does not support customer created keys.
   * Storage class and object ownerships are replicated, but not lifecycle policies.

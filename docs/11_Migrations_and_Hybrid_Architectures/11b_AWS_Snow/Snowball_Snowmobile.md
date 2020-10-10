@@ -11,22 +11,22 @@
 * **Exam Tips:**
   * **Snowball:**
     * 50 TB or 80 TB per device.
-    * Use when transferring more than 10 TB
+    * Use when transferring more than 10 TB.
     * Can chain together to get more capacity.
-    * Faster than internet/Direct Connect/VPN
+    * Faster than internet/Direct Connect/VPN.
   * **Snowball Edge:**
-    * Up to 100 TB per device - Storage Optimized
+    * Up to 100 TB per device - Storage Optimized.
     * Provide local computer services, running processes at the edge:
       * Lambda functions
       * EC2 Instances
     * **Three versions:**
-      * Storage Optimized - 100 TB with 80 TB usable
-      * Compute Optimized - Super fast nvme SSD
-      * Compute Optimized with GPU - Analytics
+      * Storage Optimized - 100 TB with 80 TB usable.
+      * Compute Optimized - Super fast nvme SSD.
+      * Compute Optimized with GPU - Analytics.
   * **Snowmobile:**
     * 100 PB per Snowmobile, can be used in parallel.
-    * Mobile data center
-    * Data center migrations
+    * Mobile data center.
+    * Data center migrations.
     * Use when transferring more than 10 PB.
       * Less than 10 PB use one or more Snowball/Snowball Edge.
       * Multiple locations - Same as above.

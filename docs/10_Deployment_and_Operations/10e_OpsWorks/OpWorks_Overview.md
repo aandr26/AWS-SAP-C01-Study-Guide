@@ -15,7 +15,7 @@
 
 * **Exam Tips:**
   * Pretty much only choose when you need Chef or Puppet.
-    * When you already have one
+    * When you already have one.
     * Requirement to automate
     * If Recipes, Cookbook or Manifests are mentioned.
   * Global service, but you can choose the region to deploy into.
@@ -26,7 +26,7 @@
   * **Recipes and Cookbooks:**
     * Github
   * **Stacks:**
-    * Top level construct
+    * Top level construct.
     * Type (Dev, Prod) or function (Finance, Management) of a system.
     * Can run custom chef cookbooks but need to point it at a repository.
     * Uses instance roles for the instances it creates.

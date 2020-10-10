@@ -34,7 +34,7 @@
       * Run task trackers and can run mapping and reduce tasks in the cluster.
     * Task nodes are optional:
       * They have no HDFS involvement.
-      * They don't rune task trackers (core), only run tasks.
+      * They don't run task trackers (core), only run tasks.
       * Ideal for SPOT based scaling.
   * **EMR Cost and Performance Optimization:**
     * **Performance:**

@@ -5,7 +5,7 @@
 * **Exam Tips:**
   * **Versioning:**
     * Cannot disable versioning, can only suspend.
-    * Unique ID per object, and with versioning a new unique ID is added for   object per each new version.
+    * Unique ID per object, and with versioning a new unique ID is added for object per each new version.
     * If an object is deleted when versioning is enabled, it adds a delete marker, but does not delete the object itself or versions of the object.
       * Can delete the delete marker to see the object again in the console and cli.
     * Be aware that versioning exists and that you can refer to previous versions.

@@ -11,7 +11,7 @@
     * **Job:**
       * Script, executable or Docker container submitted to Batch.
         * The thing to run.
-        * Can be dependant on other jobs
+        * Can be dependant on other jobs.
     * **Job definition:**
       * Metadata for a job.
         * Including permissions (IAM), resource config, mount points.
@@ -20,14 +20,15 @@
       * Queues are associated with 1+ compute environments.
     * Compute environment - managed or unmanaged compute
       * Where you configure instance type/size, vCPU amount, spot price.
-      * Or define another compute environment used in ECS
+      * Or define another compute environment used in ECS.
   * **Batch vs Lambda:**
     * **Lambda:**
       * 15 minute execution time limit.
       * Limited disk space in the environment.
       * EFS access fixes this but means VPC lambda.
       * Fully serverless but limited runtime selection.
-    * Batch:*** Not serverless, it uses docker, allowing any runtime.
+    * **Batch:**
+      * Not serverless, it uses docker, allowing any runtime.
       * No time limit or effective resource limit.
   * **Managed vs Unmanaged:**
     * **Managed:**

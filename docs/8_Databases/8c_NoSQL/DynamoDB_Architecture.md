@@ -30,7 +30,7 @@
     * Query can only ever query a single partition key.
   * A scan can check ranges.
   * **Table:**
-    * A table is a grouping of items with the same primary key
+    * A table is a grouping of items with the same primary key.
       * Simple (partition) or composite (partition and sort) primary key.
     * Each item must have a unique value for PK (primary key) and SK (sort key).
     * Can have none, all, mixture or different attributes (DDB has no rigid attribute schema).
