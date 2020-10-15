@@ -24,7 +24,7 @@
         * HDFS, HBase, Cassandra.
     * **Spread placement group:**
       * Small set of infrastructure where you need highest level of availability.
-        * Each instances runes from a different rack.
+        * Each instances rune from a different rack.
         * Each rack has its own network and power source.
       * Single AZ or multi AZ.
       * 7 instances per AZ (HARD LIMIT)

@@ -20,6 +20,11 @@
     * Best used if you need to have a trust relationship between your on-premises AD and AWS and more than 5000 users.
     * Native schema extensions? Microsoft AD mode.
   * **Simple AD:**
+    * Simple AD makes it easier to manage Amazon EC2 instances running Linux and Windows and deploy Windows applications in the AWS Cloud.
+    * Many of the applications and tools that you use today that require Microsoft Active Directory support can be used with Simple AD.
+    * User accounts in Simple AD allow access to AWS applications such as Amazon WorkSpaces, Amazon WorkDocs, or Amazon WorkMail.
+    * You can manage AWS resources through IAM role–based access to the AWS Management Console.
+    * Daily automated snapshots enable point-in-time recovery.
   * **AD Connector:**
     * A pair of directory endpoints running in AWS (ENIs in a VPC).
     * Supports directory aware AWS products.

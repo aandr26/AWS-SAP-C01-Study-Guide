@@ -4,6 +4,7 @@
 
 * **Useful Links:**
   * [Origin Failover](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/high_availability_origin_failover.html)
+  * [Tutorial Dojo CloudFront](https://tutorialsdojo.com/amazon-cloudfront/)
 
 * **Exam Tips:**
   * ACM has to be provisioned in US-East-1 for global services like CloudFront.

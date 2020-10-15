@@ -20,6 +20,7 @@
   * You directly control the memory allocated for Lambda functions whereas vCPU is allocated indirectly.
   * Function timeout of 900s (15 minutes).
     * Anything longer and you cannot use Lambda directly.
+  * When connecting to a private VPC, Lambda creates ENIs within the target VPC.
 
   * **Logging:**
     * CloudWatch
