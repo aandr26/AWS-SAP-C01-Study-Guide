@@ -12,6 +12,7 @@
   * [Layers](https://docs.aws.amazon.com/opsworks/latest/userguide/workinglayers.html)
   * [Instances](https://docs.aws.amazon.com/opsworks/latest/userguide/workinginstances.html)
   * [Apps](https://docs.aws.amazon.com/opsworks/latest/userguide/workingapps.html)
+  * [Cheat Sheet](https://tutorialsdojo.com/aws-opsworks/)
 
 * **Exam Tips:**
   * Pretty much only choose when you need Chef or Puppet.
