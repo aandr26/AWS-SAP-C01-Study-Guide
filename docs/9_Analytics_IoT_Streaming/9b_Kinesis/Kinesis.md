@@ -27,7 +27,7 @@
   * Can scale to any load that is required.
   * **Streams:**
     * Data Streams:
-      * 24 retention period default - up to 7 days at an extra cost.
+      * 24 hours retention period by default - up to 7 days (extended data retention) and up to 365 days (long-term data retention) at an extra cost.
       * Each shard = 1 MB across all producers, 2 MB across all consumers.
       * Uneven write pattern, when you don't reach the total performance of a stream.
       * Can configure shard level metrics at extra cost.
