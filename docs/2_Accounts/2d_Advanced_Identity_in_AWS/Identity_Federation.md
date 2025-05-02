@@ -16,7 +16,7 @@
     * Desire single source of truth for users, and/or more than 5,000 users.
     * If a question mentions Google, Facebook, Web, etc, SAML 2.0 is NOT the correct option.
     * Assumes a IAM Role and used AWS Temporary Credentials which have 12 hour validity.
-  * **AWS SSO:**
+  * **AWS IAM Identity Center:**
     * Flexible Identity source.
     * Has a built-in identity store.
     * On-Prem AD (Two way trust or AD connector)
