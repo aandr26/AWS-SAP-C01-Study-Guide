@@ -11,6 +11,6 @@
     * The time between occurrence of a disaster and business required systems are operational again.
   * **Improve this by decreasing restore time:**
     * Hot Spares
-    * Processes:
+    * [Processes](https://docs.aws.amazon.com/wellarchitected/latest/framework/a-failure-management.html):
       * Game days
       * Run books
